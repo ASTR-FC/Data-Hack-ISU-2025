@@ -1,0 +1,854 @@
+round_name,heat_id,heat_name,competition_competitor_id,bib_number,lap_number,rank,lap_time,total_time,result_diff,json_source
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,1,1,6.790,6.790,0.000,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,2,1,8.980,15.770,0.000,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,3,1,8.540,24.310,0.000,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,4,1,8.780,33.090,0.000,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,5,1,9.072,42.162,0.000,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,1,2,6.900,6.900,+0.110,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,2,2,8.970,15.870,+0.100,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,3,2,8.530,24.400,+0.090,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,4,2,8.780,33.180,+0.090,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,5,2,9.052,42.232,+0.070,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,1,3,7.050,7.050,+0.260,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,2,3,8.970,16.020,+0.250,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,3,3,8.510,24.530,+0.220,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,4,3,8.790,33.320,+0.230,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,5,3,9.036,42.356,+0.194,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,1,5,7.400,7.400,+0.610,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,2,4,8.810,16.210,+0.440,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,3,4,8.550,24.760,+0.450,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,4,4,8.670,33.430,+0.340,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,5,4,8.949,42.379,+0.217,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,69ff363e-e62c-408d-934a-8315964a100d,165,1,4,7.220,7.220,+0.430,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,69ff363e-e62c-408d-934a-8315964a100d,165,2,5,9.030,16.250,+0.480,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,69ff363e-e62c-408d-934a-8315964a100d,165,3,5,8.760,25.010,+0.700,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,69ff363e-e62c-408d-934a-8315964a100d,165,4,5,8.760,33.770,+0.680,seoul_man
+Preliminaries,c7094c79-ab1a-427c-8c72-fea4f13ddbdb,Heat 1,69ff363e-e62c-408d-934a-8315964a100d,165,5,5,8.880,42.650,+0.488,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,1,3,7.070,7.070,+0.290,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,2,4,9.020,16.090,+0.430,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,3,3,8.490,24.580,+0.420,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,4,3,8.520,33.100,+0.240,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,5,1,8.618,41.718,0.000,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,1,1,6.780,6.780,0.000,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,2,1,8.880,15.660,0.000,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,3,1,8.500,24.160,0.000,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,4,1,8.700,32.860,0.000,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,5,2,9.049,41.909,+0.191,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,1,4,7.170,7.170,+0.390,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,2,3,8.910,16.080,+0.420,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,3,2,8.390,24.470,+0.310,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,4,2,8.520,32.990,+0.130,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,5,3,8.938,41.928,+0.210,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,1,2,6.880,6.880,+0.100,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,2,2,9.060,15.940,+0.280,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,3,4,8.700,24.640,+0.480,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,4,4,8.940,33.580,+0.720,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,5,4,9.134,42.714,+0.996,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,130,1,5,7.560,7.560,+0.780,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,130,2,5,9.240,16.800,+1.140,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,130,3,5,8.810,25.610,+1.450,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,130,4,5,8.910,34.520,+1.660,seoul_man
+Preliminaries,af201b61-57e2-4cb7-a185-6bfc53d8f0cd,Heat 2,684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,130,5,5,9.037,43.557,+1.839,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,1,2,7.130,7.130,+0.200,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,2,3,9.090,16.220,+0.330,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,3,3,8.600,24.820,+0.340,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,4,1,8.570,33.390,0.000,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,5,1,9.141,42.531,0.000,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,1,4,7.400,7.400,+0.470,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,2,4,9.030,16.430,+0.540,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,3,4,8.540,24.970,+0.490,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,4,2,8.690,33.660,+0.270,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,5,2,9.055,42.715,+0.184,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,035de887-d22a-4161-8f98-03ffbea1fec1,161,1,5,7.570,7.570,+0.640,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,035de887-d22a-4161-8f98-03ffbea1fec1,161,2,5,9.100,16.670,+0.780,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,035de887-d22a-4161-8f98-03ffbea1fec1,161,3,5,8.560,25.230,+0.750,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,035de887-d22a-4161-8f98-03ffbea1fec1,161,4,3,8.760,33.990,+0.600,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,035de887-d22a-4161-8f98-03ffbea1fec1,161,5,3,9.126,43.116,+0.585,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,1,1,6.930,6.930,0.000,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,2,1,8.960,15.890,0.000,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,3,1,8.590,24.480,0.000,seoul_man
+Preliminaries,4b767742-7b21-45bf-9bc7-dac58bf37958,Heat 3,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,4,5,26.290,50.770,+17.380,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,1,1,6.880,6.880,0.000,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,2,1,8.970,15.850,0.000,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,3,1,8.530,24.380,0.000,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,4,1,8.690,33.070,0.000,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,5,1,8.971,42.041,0.000,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,1,3,7.160,7.160,+0.280,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,2,2,9.000,16.160,+0.310,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,3,2,8.640,24.800,+0.420,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,4,3,8.780,33.580,+0.510,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,5,2,8.975,42.555,+0.514,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,1,5,7.420,7.420,+0.540,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,2,5,9.160,16.580,+0.730,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,3,4,8.430,25.010,+0.630,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,4,4,8.710,33.720,+0.650,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,5,3,8.930,42.650,+0.609,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,1,4,7.170,7.170,+0.290,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,2,4,9.390,16.560,+0.710,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,3,5,8.890,25.450,+1.070,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,4,5,8.770,34.220,+1.150,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,5,4,8.956,43.176,+1.135,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,abe82db9-af4f-44cc-a51a-04967c7e4a5c,134,1,2,7.130,7.130,+0.250,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,abe82db9-af4f-44cc-a51a-04967c7e4a5c,134,2,3,9.150,16.280,+0.430,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,abe82db9-af4f-44cc-a51a-04967c7e4a5c,134,3,3,8.620,24.900,+0.520,seoul_man
+Preliminaries,8f94c91d-93f1-42af-8e86-ee44622e6970,Heat 4,abe82db9-af4f-44cc-a51a-04967c7e4a5c,134,4,2,8.570,33.470,+0.400,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,1,1,7.010,7.010,0.000,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,2,1,9.140,16.150,0.000,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,3,1,8.590,24.740,0.000,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,4,1,8.660,33.400,0.000,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,5,1,9.189,42.589,0.000,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,1,2,7.140,7.140,+0.130,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,2,2,9.110,16.250,+0.100,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,3,2,8.580,24.830,+0.090,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,4,2,8.660,33.490,+0.090,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,5,2,9.113,42.603,+0.014,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,12d00681-72a5-4a5e-8b7f-888307030a79,146,1,3,7.420,7.420,+0.410,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,12d00681-72a5-4a5e-8b7f-888307030a79,146,2,3,9.000,16.420,+0.270,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,12d00681-72a5-4a5e-8b7f-888307030a79,146,3,3,8.710,25.130,+0.390,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,12d00681-72a5-4a5e-8b7f-888307030a79,146,4,3,8.740,33.870,+0.470,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,12d00681-72a5-4a5e-8b7f-888307030a79,146,5,3,8.970,42.840,+0.251,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,803fa954-f0ae-4120-bf37-af6a795a1341,103,1,4,7.580,7.580,+0.570,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,803fa954-f0ae-4120-bf37-af6a795a1341,103,2,4,9.260,16.840,+0.690,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,803fa954-f0ae-4120-bf37-af6a795a1341,103,3,4,9.070,25.910,+1.170,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,803fa954-f0ae-4120-bf37-af6a795a1341,103,4,4,9.130,35.040,+1.640,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,803fa954-f0ae-4120-bf37-af6a795a1341,103,5,4,9.486,44.526,+1.937,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,d3f94799-45ef-483d-98a4-ca33cfbd22d1,160,1,5,7.920,7.920,+0.910,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,d3f94799-45ef-483d-98a4-ca33cfbd22d1,160,2,5,9.390,17.310,+1.160,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,d3f94799-45ef-483d-98a4-ca33cfbd22d1,160,3,5,8.880,26.190,+1.450,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,d3f94799-45ef-483d-98a4-ca33cfbd22d1,160,4,5,9.080,35.270,+1.870,seoul_man
+Preliminaries,4841c03d-0409-47e4-ba40-0451b0624192,Heat 5,d3f94799-45ef-483d-98a4-ca33cfbd22d1,160,5,5,9.315,44.585,+1.996,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,1,1,7.090,7.090,0.000,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,2,1,9.170,16.260,0.000,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,3,1,8.640,24.900,0.000,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,4,1,8.890,33.790,0.000,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,5,1,9.067,42.857,0.000,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,1,4,7.460,7.460,+0.370,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,2,4,9.160,16.620,+0.360,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,3,3,8.620,25.240,+0.340,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,4,2,8.870,34.110,+0.320,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,5,2,8.878,42.988,+0.131,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,1,5,7.590,7.590,+0.500,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,2,5,9.220,16.810,+0.550,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,3,4,8.690,25.500,+0.600,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,4,4,8.870,34.370,+0.580,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,5,4,8.999,43.369,+0.512,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,1,2,7.210,7.210,+0.120,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,2,2,9.120,16.330,+0.070,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,3,5,23.750,40.080,+15.180,seoul_man
+Preliminaries,88de5ae5-289e-4340-a9b4-4190065dfcc2,Heat 6,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,4,5,18.410,58.490,+24.700,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,1,3,7.240,7.240,+0.290,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,2,3,9.110,16.350,+0.190,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,3,3,8.570,24.920,+0.170,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,4,2,8.620,33.540,+0.100,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,5,1,8.912,42.452,0.000,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,1,2,7.130,7.130,+0.180,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,2,2,9.110,16.240,+0.080,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,3,1,8.510,24.750,0.000,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,4,1,8.690,33.440,0.000,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,5,2,9.130,42.570,+0.118,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,07b07e7b-b516-4d77-a204-91e3c504c294,69,1,1,6.950,6.950,0.000,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,07b07e7b-b516-4d77-a204-91e3c504c294,69,2,1,9.210,16.160,0.000,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,07b07e7b-b516-4d77-a204-91e3c504c294,69,3,2,8.660,24.820,+0.070,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,07b07e7b-b516-4d77-a204-91e3c504c294,69,4,3,8.910,33.730,+0.290,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,07b07e7b-b516-4d77-a204-91e3c504c294,69,5,3,8.908,42.638,+0.186,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,2e32c658-7255-4a74-aa1e-3555a22db580,91,1,4,7.400,7.400,+0.450,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,2e32c658-7255-4a74-aa1e-3555a22db580,91,2,4,9.150,16.550,+0.390,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,2e32c658-7255-4a74-aa1e-3555a22db580,91,3,4,8.640,25.190,+0.440,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,2e32c658-7255-4a74-aa1e-3555a22db580,91,4,4,8.760,33.950,+0.510,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,2e32c658-7255-4a74-aa1e-3555a22db580,91,5,4,9.034,42.984,+0.532,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,a069c448-0fa1-471c-b30b-4f87ba4fa44d,109,1,5,7.490,7.490,+0.540,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,a069c448-0fa1-471c-b30b-4f87ba4fa44d,109,2,5,9.280,16.770,+0.610,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,a069c448-0fa1-471c-b30b-4f87ba4fa44d,109,3,5,8.680,25.450,+0.700,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,a069c448-0fa1-471c-b30b-4f87ba4fa44d,109,4,5,8.970,34.420,+0.980,seoul_man
+Preliminaries,f2811794-4016-4e42-aefb-fb55f427c33e,Heat 7,a069c448-0fa1-471c-b30b-4f87ba4fa44d,109,5,5,9.133,43.553,+1.101,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,8d006479-00dc-4baa-82af-354a2f3f26b3,37,1,1,6.990,6.990,0.000,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,8d006479-00dc-4baa-82af-354a2f3f26b3,37,2,1,9.090,16.080,0.000,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,8d006479-00dc-4baa-82af-354a2f3f26b3,37,3,1,8.510,24.590,0.000,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,8d006479-00dc-4baa-82af-354a2f3f26b3,37,4,1,8.630,33.220,0.000,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,8d006479-00dc-4baa-82af-354a2f3f26b3,37,5,1,8.796,42.016,0.000,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,4db2541f-8c53-49cb-af7d-ff587761fd00,58,1,2,7.140,7.140,+0.150,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,4db2541f-8c53-49cb-af7d-ff587761fd00,58,2,2,9.080,16.220,+0.140,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,4db2541f-8c53-49cb-af7d-ff587761fd00,58,3,2,8.480,24.700,+0.110,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,4db2541f-8c53-49cb-af7d-ff587761fd00,58,4,2,8.630,33.330,+0.110,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,4db2541f-8c53-49cb-af7d-ff587761fd00,58,5,2,8.756,42.086,+0.070,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,1,3,7.260,7.260,+0.270,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,2,3,9.060,16.320,+0.240,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,3,3,8.510,24.830,+0.240,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,4,3,8.600,33.430,+0.210,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,5,3,8.846,42.276,+0.260,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,1,5,7.730,7.730,+0.740,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,2,4,9.390,17.120,+1.040,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,3,4,8.540,25.660,+1.070,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,4,4,8.760,34.420,+1.200,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,5,4,8.999,43.419,+1.403,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,6ee4046c-f05f-4895-b0fe-77c5dc78f644,164,1,4,7.650,7.650,+0.660,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,6ee4046c-f05f-4895-b0fe-77c5dc78f644,164,2,5,9.890,17.540,+1.460,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,6ee4046c-f05f-4895-b0fe-77c5dc78f644,164,3,5,9.350,26.890,+2.300,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,6ee4046c-f05f-4895-b0fe-77c5dc78f644,164,4,5,9.620,36.510,+3.290,seoul_man
+Preliminaries,d213a244-f6be-4a12-a620-65f0854e7439,Heat 8,6ee4046c-f05f-4895-b0fe-77c5dc78f644,164,5,5,9.813,46.323,+4.307,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,29659c64-b0e6-4e52-8121-665fcca355d7,98,1,1,6.990,6.990,0.000,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,29659c64-b0e6-4e52-8121-665fcca355d7,98,2,1,9.080,16.070,0.000,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,29659c64-b0e6-4e52-8121-665fcca355d7,98,3,1,8.590,24.660,0.000,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,29659c64-b0e6-4e52-8121-665fcca355d7,98,4,1,8.730,33.390,0.000,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,29659c64-b0e6-4e52-8121-665fcca355d7,98,5,1,9.004,42.394,0.000,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,1,2,7.190,7.190,+0.200,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,2,2,9.000,16.190,+0.120,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,3,2,8.610,24.800,+0.140,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,4,2,8.730,33.530,+0.140,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,5,2,8.961,42.491,+0.097,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,1,4,7.570,7.570,+0.580,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,2,3,9.030,16.600,+0.530,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,3,3,8.660,25.260,+0.600,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,4,3,8.680,33.940,+0.550,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,5,3,8.957,42.897,+0.503,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,50258917-cf59-4b67-8059-e8a94708cf33,163,1,5,7.690,7.690,+0.700,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,50258917-cf59-4b67-8059-e8a94708cf33,163,2,4,9.090,16.780,+0.710,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,50258917-cf59-4b67-8059-e8a94708cf33,163,3,4,8.690,25.470,+0.810,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,50258917-cf59-4b67-8059-e8a94708cf33,163,4,4,8.890,34.360,+0.970,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,50258917-cf59-4b67-8059-e8a94708cf33,163,5,4,9.072,43.432,+1.038,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,b970ce3d-6bfd-4007-a836-19d13fca9c9d,65,1,3,7.390,7.390,+0.400,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,b970ce3d-6bfd-4007-a836-19d13fca9c9d,65,2,5,18.410,25.800,+9.730,seoul_man
+Preliminaries,4b48e988-a6df-4bed-8168-8e027e1c2d8f,Heat 9,b970ce3d-6bfd-4007-a836-19d13fca9c9d,65,3,5,21.160,46.960,+22.300,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,1,1,6.980,6.980,0.000,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,2,1,9.040,16.020,0.000,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,3,1,8.610,24.630,0.000,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,4,1,8.690,33.320,0.000,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,5,1,8.767,42.087,0.000,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,1,3,7.160,7.160,+0.180,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,2,3,9.140,16.300,+0.280,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,3,2,8.790,25.090,+0.460,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,4,2,8.980,34.070,+0.750,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,5,2,9.037,43.107,+1.020,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,1,4,7.330,7.330,+0.350,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,2,4,9.160,16.490,+0.470,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,3,4,8.720,25.210,+0.580,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,4,3,9.170,34.380,+1.060,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,5,3,9.243,43.623,+1.536,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,b175d978-795a-464a-b6ba-68e8d3edec0a,85,1,2,7.030,7.030,+0.050,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,b175d978-795a-464a-b6ba-68e8d3edec0a,85,2,2,9.160,16.190,+0.170,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,b175d978-795a-464a-b6ba-68e8d3edec0a,85,3,3,8.950,25.140,+0.510,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,b175d978-795a-464a-b6ba-68e8d3edec0a,85,4,4,9.310,34.450,+1.130,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,b175d978-795a-464a-b6ba-68e8d3edec0a,85,5,4,9.294,43.744,+1.657,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,530dda22-2d58-4a73-8a5f-be5ed4d3c203,150,1,5,7.450,7.450,+0.470,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,530dda22-2d58-4a73-8a5f-be5ed4d3c203,150,2,5,9.270,16.720,+0.700,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,530dda22-2d58-4a73-8a5f-be5ed4d3c203,150,3,5,9.090,25.810,+1.180,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,530dda22-2d58-4a73-8a5f-be5ed4d3c203,150,4,5,9.240,35.050,+1.730,seoul_man
+Preliminaries,a3c5d5a3-fcfe-4f60-bdb7-4f37c69ec820,Heat 10,530dda22-2d58-4a73-8a5f-be5ed4d3c203,150,5,5,9.340,44.390,+2.303,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,1,1,6.960,6.960,0.000,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,2,1,9.070,16.030,0.000,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,3,1,8.750,24.780,0.000,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,4,1,9.040,33.820,0.000,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,5,1,9.227,43.047,0.000,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,05c24d5b-7213-468e-ac28-c431740f44ff,113,1,2,7.060,7.060,+0.100,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,05c24d5b-7213-468e-ac28-c431740f44ff,113,2,2,9.070,16.130,+0.100,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,05c24d5b-7213-468e-ac28-c431740f44ff,113,3,2,8.720,24.850,+0.070,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,05c24d5b-7213-468e-ac28-c431740f44ff,113,4,2,9.050,33.900,+0.080,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,05c24d5b-7213-468e-ac28-c431740f44ff,113,5,2,9.301,43.201,+0.154,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,1,3,7.280,7.280,+0.320,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,2,3,9.020,16.300,+0.270,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,3,3,8.640,24.940,+0.160,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,4,3,9.080,34.020,+0.200,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,5,3,9.436,43.456,+0.409,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,4a9f8b2e-e3fa-4305-b1f6-df066c32d3c2,121,1,4,7.450,7.450,+0.490,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,4a9f8b2e-e3fa-4305-b1f6-df066c32d3c2,121,2,4,8.930,16.380,+0.350,seoul_man
+Preliminaries,18e0d66c-9543-47d5-9d2d-9d53132ae31d,Heat 11,4a9f8b2e-e3fa-4305-b1f6-df066c32d3c2,121,3,4,31.810,48.190,+23.410,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,1,1,6.640,6.640,0.000,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,2,1,8.690,15.330,0.000,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,3,1,8.310,23.640,0.000,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,4,1,8.470,32.110,0.000,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,5,1,8.635,40.745,0.000,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,1,2,6.790,6.790,+0.150,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,2,2,8.680,15.470,+0.140,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,3,2,8.260,23.730,+0.090,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,4,2,8.460,32.190,+0.080,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,5,2,8.707,40.897,+0.152,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,1,4,7.010,7.010,+0.370,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,2,4,8.760,15.770,+0.440,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,3,4,8.150,23.920,+0.280,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,4,4,8.370,32.290,+0.180,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,5,3,8.884,41.174,+0.429,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,1,3,6.890,6.890,+0.250,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,2,3,8.670,15.560,+0.230,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,3,3,8.250,23.810,+0.170,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,4,3,8.440,32.250,+0.140,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,5,4,9.088,41.338,+0.593,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,1,5,7.330,7.330,+0.690,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,2,5,8.850,16.180,+0.850,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,3,5,8.630,24.810,+1.170,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,4,5,8.860,33.670,+1.560,seoul_man
+Heats,71c5b8c3-7f2b-4c52-b3a6-77206b1dfbfe,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,5,5,9.137,42.807,+2.062,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,1,1,6.560,6.560,0.000,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,2,1,8.730,15.290,0.000,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,3,1,8.340,23.630,0.000,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,4,1,8.490,32.120,0.000,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,5,1,8.763,40.883,0.000,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,1,3,6.940,6.940,+0.380,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,2,3,8.740,15.680,+0.390,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,3,3,8.200,23.880,+0.250,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,4,3,8.380,32.260,+0.140,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,5,2,8.683,40.943,+0.060,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,89ebc323-0aef-4373-bc5c-6694f0b76935,17,1,2,6.820,6.820,+0.260,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,89ebc323-0aef-4373-bc5c-6694f0b76935,17,2,2,8.730,15.550,+0.260,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,89ebc323-0aef-4373-bc5c-6694f0b76935,17,3,2,8.240,23.790,+0.160,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,89ebc323-0aef-4373-bc5c-6694f0b76935,17,4,2,8.430,32.220,+0.100,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,89ebc323-0aef-4373-bc5c-6694f0b76935,17,5,3,8.953,41.173,+0.290,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,1,5,7.280,7.280,+0.720,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,2,5,8.760,16.040,+0.750,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,3,4,8.320,24.360,+0.730,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,4,4,8.660,33.020,+0.900,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,5,4,8.899,41.919,+1.036,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,6966756c-063a-4dad-8481-de3a5060fba8,145,1,4,7.080,7.080,+0.520,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,6966756c-063a-4dad-8481-de3a5060fba8,145,2,4,8.850,15.930,+0.640,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,6966756c-063a-4dad-8481-de3a5060fba8,145,3,5,8.540,24.470,+0.840,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,6966756c-063a-4dad-8481-de3a5060fba8,145,4,5,8.740,33.210,+1.090,seoul_man
+Heats,d56e7ac6-c963-4672-9d1f-a2058f23fd9a,Heat 2,6966756c-063a-4dad-8481-de3a5060fba8,145,5,5,9.371,42.581,+1.698,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,af470988-b4c5-4d6a-b176-82176f4743e7,1,1,2,6.940,6.940,+0.120,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,af470988-b4c5-4d6a-b176-82176f4743e7,1,2,2,8.830,15.770,+0.110,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,af470988-b4c5-4d6a-b176-82176f4743e7,1,3,2,8.260,24.030,+0.040,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,af470988-b4c5-4d6a-b176-82176f4743e7,1,4,1,8.430,32.460,0.000,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,af470988-b4c5-4d6a-b176-82176f4743e7,1,5,1,8.710,41.170,0.000,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,1,1,6.820,6.820,0.000,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,2,1,8.840,15.660,0.000,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,3,1,8.330,23.990,0.000,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,4,2,8.660,32.650,+0.190,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,5,2,8.600,41.250,+0.080,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,843abd46-cc28-4728-be4c-a887965aa21d,126,1,3,7.070,7.070,+0.250,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,843abd46-cc28-4728-be4c-a887965aa21d,126,2,3,8.810,15.880,+0.220,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,843abd46-cc28-4728-be4c-a887965aa21d,126,3,3,8.250,24.130,+0.140,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,843abd46-cc28-4728-be4c-a887965aa21d,126,4,3,8.610,32.740,+0.280,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,843abd46-cc28-4728-be4c-a887965aa21d,126,5,3,8.766,41.506,+0.336,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,1,5,7.380,7.380,+0.560,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,2,4,8.900,16.280,+0.620,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,3,4,8.460,24.740,+0.750,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,4,4,8.630,33.370,+0.910,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,5,4,8.874,42.244,+1.074,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,1,4,7.260,7.260,+0.440,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,2,5,9.090,16.350,+0.690,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,3,5,8.590,24.940,+0.950,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,4,5,8.600,33.540,+1.080,seoul_man
+Heats,f9c03e3c-fa0d-481d-9714-652c34821ddc,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,5,5,8.854,42.394,+1.224,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c4b9df64-f59a-4f18-b837-0de23875f136,7,1,1,6.790,6.790,0.000,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c4b9df64-f59a-4f18-b837-0de23875f136,7,2,1,8.900,15.690,0.000,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c4b9df64-f59a-4f18-b837-0de23875f136,7,3,1,8.400,24.090,0.000,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c4b9df64-f59a-4f18-b837-0de23875f136,7,4,1,8.540,32.630,0.000,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c4b9df64-f59a-4f18-b837-0de23875f136,7,5,1,8.768,41.398,0.000,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,1,3,7.130,7.130,+0.340,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,2,3,8.810,15.940,+0.250,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,3,3,8.340,24.280,+0.190,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,4,3,8.530,32.810,+0.180,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,5,2,8.735,41.545,+0.147,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,1,2,7.020,7.020,+0.230,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,2,2,8.810,15.830,+0.140,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,3,2,8.370,24.200,+0.110,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,4,2,8.520,32.720,+0.090,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,5,3,8.850,41.570,+0.172,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,1,4,7.240,7.240,+0.450,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,2,4,8.920,16.160,+0.470,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,3,4,8.380,24.540,+0.450,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,4,4,8.430,32.970,+0.340,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,5,4,8.740,41.710,+0.312,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,1,5,7.280,7.280,+0.490,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,2,5,8.980,16.260,+0.570,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,3,5,8.440,24.700,+0.610,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,4,5,8.610,33.310,+0.680,seoul_man
+Heats,d03ad47e-c5ad-41b6-93a1-06a28fd3983b,Heat 4,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,5,5,8.922,42.232,+0.834,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,1,3,7.100,7.100,+0.310,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,2,3,8.850,15.950,+0.300,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,3,3,8.340,24.290,+0.270,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,4,1,8.380,32.670,0.000,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,5,1,8.804,41.474,0.000,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,5dc025c0-4553-4107-b42f-a7a6794f8495,8,1,2,6.990,6.990,+0.200,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,5dc025c0-4553-4107-b42f-a7a6794f8495,8,2,2,8.860,15.850,+0.200,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,5dc025c0-4553-4107-b42f-a7a6794f8495,8,3,2,8.310,24.160,+0.140,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,5dc025c0-4553-4107-b42f-a7a6794f8495,8,4,2,8.610,32.770,+0.100,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,5dc025c0-4553-4107-b42f-a7a6794f8495,8,5,2,8.826,41.596,+0.122,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,1,1,6.790,6.790,0.000,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,2,1,8.860,15.650,0.000,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,3,1,8.370,24.020,0.000,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,4,3,8.820,32.840,+0.170,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,5,3,9.130,41.970,+0.496,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,1,4,7.250,7.250,+0.460,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,2,4,8.850,16.100,+0.450,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,3,4,8.410,24.510,+0.490,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,4,4,8.570,33.080,+0.410,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,01e4dcbf-164f-4a97-aef5-3587d81e1998,83,5,4,8.919,41.999,+0.525,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,1,5,7.570,7.570,+0.780,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,2,5,8.980,16.550,+0.900,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,3,5,8.480,25.030,+1.010,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,4,5,8.600,33.630,+0.960,seoul_man
+Heats,b5eeba18-c38c-438c-a270-742f37405284,Heat 5,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,5,5,8.876,42.506,+1.032,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,1,2,7.080,7.080,+0.230,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,2,2,8.880,15.960,+0.140,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,3,1,8.450,24.410,0.000,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,4,1,8.580,32.990,0.000,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,5,1,8.682,41.672,0.000,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,1,1,6.850,6.850,0.000,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,2,1,8.970,15.820,0.000,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,3,2,8.660,24.480,+0.070,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,4,2,8.610,33.090,+0.100,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,5,3,9.046,42.136,+0.464,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,1,5,7.660,7.660,+0.810,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,2,5,8.940,16.600,+0.780,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,3,4,8.440,25.040,+0.630,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,4,4,8.610,33.650,+0.660,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,5,4,8.822,42.472,+0.800,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,1,4,7.460,7.460,+0.610,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,2,4,8.880,16.340,+0.520,seoul_man
+Heats,0e0b6e54-9153-42b7-93e9-e8db96a89a8b,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,3,5,22.280,38.620,+14.210,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,1109e535-8491-4985-857e-610f26178f4c,48,1,1,6.750,6.750,0.000,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,1109e535-8491-4985-857e-610f26178f4c,48,2,1,8.800,15.550,0.000,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,1109e535-8491-4985-857e-610f26178f4c,48,3,1,8.330,23.880,0.000,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,1109e535-8491-4985-857e-610f26178f4c,48,4,1,8.420,32.300,0.000,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,1109e535-8491-4985-857e-610f26178f4c,48,5,1,8.669,40.969,0.000,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,1,3,7.080,7.080,+0.330,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,2,3,8.880,15.960,+0.410,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,3,3,8.160,24.120,+0.240,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,4,3,8.320,32.440,+0.140,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,af71dca0-c9fb-4f77-be3a-8ff047e99c39,75,5,3,8.872,41.312,+0.343,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,29659c64-b0e6-4e52-8121-665fcca355d7,98,1,4,7.200,7.200,+0.450,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,29659c64-b0e6-4e52-8121-665fcca355d7,98,2,4,8.840,16.040,+0.490,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,29659c64-b0e6-4e52-8121-665fcca355d7,98,3,4,8.210,24.250,+0.370,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,29659c64-b0e6-4e52-8121-665fcca355d7,98,4,4,8.330,32.580,+0.280,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,29659c64-b0e6-4e52-8121-665fcca355d7,98,5,4,8.887,41.467,+0.498,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,1,5,7.670,7.670,+0.920,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,2,5,9.020,16.690,+1.140,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,3,5,8.470,25.160,+1.280,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,4,5,8.690,33.850,+1.550,seoul_man
+Heats,a0125825-c262-4504-8192-949dadfb6e9e,Heat 7,398f4d0a-6c05-40de-b3f1-8866b6ff5158,54,5,5,9.037,42.887,+1.918,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,1,1,6.850,6.850,0.000,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,2,1,8.770,15.620,0.000,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,3,1,8.230,23.850,0.000,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,4,1,8.400,32.250,0.000,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,5,1,8.558,40.808,0.000,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,59ae22e1-2772-412d-8714-8ac113571053,10,1,2,6.980,6.980,+0.130,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,59ae22e1-2772-412d-8714-8ac113571053,10,2,2,8.840,15.820,+0.200,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,59ae22e1-2772-412d-8714-8ac113571053,10,3,2,8.200,24.020,+0.170,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,59ae22e1-2772-412d-8714-8ac113571053,10,4,2,8.350,32.370,+0.120,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,59ae22e1-2772-412d-8714-8ac113571053,10,5,2,8.533,40.903,+0.095,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,1,3,7.080,7.080,+0.230,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,2,3,8.910,15.990,+0.370,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,3,3,8.330,24.320,+0.470,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,4,3,8.420,32.740,+0.490,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,5,3,8.663,41.403,+0.595,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,1,4,7.270,7.270,+0.420,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,2,4,8.860,16.130,+0.510,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,3,4,8.330,24.460,+0.610,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,4,4,8.570,33.030,+0.780,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,5,4,8.965,41.995,+1.187,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,1,5,7.450,7.450,+0.600,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,2,5,8.930,16.380,+0.760,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,3,5,8.530,24.910,+1.060,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,4,5,8.730,33.640,+1.390,seoul_man
+Heats,beea6adf-c5f7-4c9a-b0d6-f318d787e162,Heat 8,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,5,5,8.992,42.632,+1.824,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,843abd46-cc28-4728-be4c-a887965aa21d,126,1,1,6.840,6.840,0.000,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,843abd46-cc28-4728-be4c-a887965aa21d,126,2,1,8.810,15.650,0.000,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,843abd46-cc28-4728-be4c-a887965aa21d,126,3,1,8.470,24.120,0.000,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,843abd46-cc28-4728-be4c-a887965aa21d,126,4,1,8.700,32.820,0.000,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,843abd46-cc28-4728-be4c-a887965aa21d,126,5,1,9.025,41.845,0.000,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,1,3,7.150,7.150,+0.310,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,2,3,8.910,16.060,+0.410,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,3,2,8.450,24.510,+0.390,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,4,2,8.630,33.140,+0.320,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,5,2,8.753,41.893,+0.048,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,1,2,6.970,6.970,+0.130,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,2,2,8.980,15.950,+0.300,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,3,3,8.780,24.730,+0.610,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,4,3,8.730,33.460,+0.640,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,6966756c-063a-4dad-8481-de3a5060fba8,145,5,3,8.896,42.356,+0.511,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,035de887-d22a-4161-8f98-03ffbea1fec1,161,1,4,7.350,7.350,+0.510,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,035de887-d22a-4161-8f98-03ffbea1fec1,161,2,4,9.060,16.410,+0.760,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,035de887-d22a-4161-8f98-03ffbea1fec1,161,3,4,8.620,25.030,+0.910,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,035de887-d22a-4161-8f98-03ffbea1fec1,161,4,4,8.880,33.910,+1.090,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,035de887-d22a-4161-8f98-03ffbea1fec1,161,5,4,9.194,43.104,+1.259,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,1,5,7.520,7.520,+0.680,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,2,5,9.090,16.610,+0.960,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,3,5,8.820,25.430,+1.310,seoul_man
+Rep. Quarterfinals,f62ef0f7-d7f1-4ee5-8944-3bb40312d296,Heat 1,5f994194-cdf8-41f6-b03a-f7de5326b09a,152,4,5,24.660,50.090,+17.270,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,1,1,6.960,6.960,0.000,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,2,1,8.880,15.840,0.000,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,3,1,8.430,24.270,0.000,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,4,1,8.530,32.800,0.000,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,2dea1d2c-3ff7-49de-b8b5-a98466f53d69,22,5,1,8.709,41.509,0.000,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,1,2,7.060,7.060,+0.100,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,2,2,8.980,16.040,+0.200,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,3,2,8.450,24.490,+0.220,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,4,2,8.690,33.180,+0.380,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,125,5,2,8.946,42.126,+0.617,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,1,3,7.190,7.190,+0.230,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,2,3,9.030,16.220,+0.380,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,3,3,8.460,24.680,+0.410,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,4,3,8.780,33.460,+0.660,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,55,5,3,8.761,42.221,+0.712,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,1,5,7.490,7.490,+0.530,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,2,5,8.960,16.450,+0.610,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,3,5,8.490,24.940,+0.670,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,4,4,8.530,33.470,+0.670,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,270ef03a-79ea-488d-8444-5d8af2e4c06c,87,5,4,8.902,42.372,+0.863,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,1,4,7.280,7.280,+0.320,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,2,4,9.030,16.310,+0.470,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,3,4,8.390,24.700,+0.430,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,4,5,9.040,33.740,+0.940,seoul_man
+Rep. Quarterfinals,db5d239e-8f4b-4831-a664-c2ac5df49667,Heat 2,1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,106,5,5,8.713,42.453,+0.944,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,1,1,6.880,6.880,0.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,2,1,8.890,15.770,0.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,3,1,8.510,24.280,0.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,4,1,8.700,32.980,0.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,5,1,8.931,41.911,0.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,1,2,7.060,7.060,+0.180,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,2,2,9.000,16.060,+0.290,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,3,2,8.560,24.620,+0.340,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,4,2,8.750,33.370,+0.390,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,d0aa76b3-ea67-499e-84fb-50b0420310e6,138,5,2,8.959,42.329,+0.418,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,1,4,7.450,7.450,+0.570,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,2,4,9.050,16.500,+0.730,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,3,4,8.610,25.110,+0.830,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,4,3,8.870,33.980,+1.000,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,82,5,3,9.173,43.153,+1.242,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,12d00681-72a5-4a5e-8b7f-888307030a79,146,1,3,7.260,7.260,+0.380,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,12d00681-72a5-4a5e-8b7f-888307030a79,146,2,3,9.070,16.330,+0.560,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,12d00681-72a5-4a5e-8b7f-888307030a79,146,3,3,8.730,25.060,+0.780,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,12d00681-72a5-4a5e-8b7f-888307030a79,146,4,4,9.020,34.080,+1.100,seoul_man
+Rep. Quarterfinals,b8193a1b-4b72-458e-a340-27522d0bd8e8,Heat 3,12d00681-72a5-4a5e-8b7f-888307030a79,146,5,4,9.154,43.234,+1.323,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,1,5,7.610,7.610,+0.780,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,2,4,9.020,16.630,+0.840,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,3,4,8.530,25.160,+0.850,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,4,4,8.570,33.730,+0.800,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,5,1,8.790,42.520,0.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,1,3,7.290,7.290,+0.460,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,2,3,8.930,16.220,+0.430,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,3,3,8.570,24.790,+0.480,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,4,3,8.690,33.480,+0.550,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,7241404a-ad95-48e4-828b-a639b7b2cf9f,97,5,2,9.109,42.589,+0.069,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,1,4,7.530,7.530,+0.700,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,2,5,9.260,16.790,+1.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,3,5,8.740,25.530,+1.220,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,4,5,8.880,34.410,+1.480,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,dc80c9c3-094f-4762-a72d-5dc47a1b9d47,44,5,3,9.143,43.553,+1.033,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,1,1,6.830,6.830,0.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,2,1,8.960,15.790,0.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,3,1,8.520,24.310,0.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,4,1,8.620,32.930,0.000,seoul_man
+Rep. Quarterfinals,701a6468-fb42-45e2-b504-94745b186277,Heat 4,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,5,4,10.636,43.566,+1.046,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,29659c64-b0e6-4e52-8121-665fcca355d7,98,1,2,6.820,6.820,+0.150,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,29659c64-b0e6-4e52-8121-665fcca355d7,98,2,2,8.930,15.750,+0.100,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,29659c64-b0e6-4e52-8121-665fcca355d7,98,3,2,8.430,24.180,+0.090,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,29659c64-b0e6-4e52-8121-665fcca355d7,98,4,1,8.470,32.650,0.000,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,29659c64-b0e6-4e52-8121-665fcca355d7,98,5,1,8.933,41.583,0.000,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,1,1,6.670,6.670,0.000,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,2,1,8.980,15.650,0.000,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,3,1,8.440,24.090,0.000,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,4,2,8.750,32.840,+0.190,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,17cf500c-d597-4fd2-ac27-62e8aabe6d11,32,5,2,9.154,41.994,+0.411,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,07b07e7b-b516-4d77-a204-91e3c504c294,69,1,3,6.980,6.980,+0.310,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,07b07e7b-b516-4d77-a204-91e3c504c294,69,2,3,8.920,15.900,+0.250,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,07b07e7b-b516-4d77-a204-91e3c504c294,69,3,3,8.470,24.370,+0.280,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,07b07e7b-b516-4d77-a204-91e3c504c294,69,4,3,8.700,33.070,+0.420,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,07b07e7b-b516-4d77-a204-91e3c504c294,69,5,3,9.045,42.115,+0.532,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,1,4,7.130,7.130,+0.460,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,2,4,8.980,16.110,+0.460,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,3,4,8.550,24.660,+0.570,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,4,4,8.790,33.450,+0.800,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,112,5,4,9.029,42.479,+0.896,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,1,5,7.300,7.300,+0.630,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,2,5,9.200,16.500,+0.850,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,3,5,8.780,25.280,+1.190,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,4,5,8.950,34.230,+1.580,seoul_man
+Rep. Quarterfinals,012e0947-8230-483d-83f5-ad0b2cb77488,Heat 5,c7b3a7a6-7d73-4870-81c0-983009b1a7df,116,5,5,9.118,43.348,+1.765,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,1,2,7.030,7.030,+0.130,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,2,1,9.120,16.150,0.000,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,3,1,8.510,24.660,0.000,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,4,1,8.590,33.250,0.000,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,5,1,8.848,42.098,0.000,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,1,5,7.440,7.440,+0.540,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,2,4,8.980,16.420,+0.270,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,3,3,8.660,25.080,+0.420,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,4,2,8.570,33.650,+0.400,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,5445c3b6-260c-4627-aff7-5c87accb1e3c,34,5,2,8.691,42.341,+0.243,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,1,3,7.160,7.160,+0.260,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,2,3,9.120,16.280,+0.130,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,3,2,8.670,24.950,+0.290,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,4,3,8.870,33.820,+0.570,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,86308f5c-9f44-4b71-89bc-ff577fcd76a0,115,5,3,8.988,42.808,+0.710,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,1,1,6.900,6.900,0.000,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,2,2,9.340,16.240,+0.090,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,3,4,8.990,25.230,+0.570,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,4,4,8.780,34.010,+0.760,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,aec5d4c4-5b9a-49a6-9803-d76affd5bdae,99,5,4,9.001,43.011,+0.913,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,2e32c658-7255-4a74-aa1e-3555a22db580,91,1,4,7.300,7.300,+0.400,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,2e32c658-7255-4a74-aa1e-3555a22db580,91,2,5,9.130,16.430,+0.280,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,2e32c658-7255-4a74-aa1e-3555a22db580,91,3,5,8.940,25.370,+0.710,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,2e32c658-7255-4a74-aa1e-3555a22db580,91,4,5,8.830,34.200,+0.950,seoul_man
+Rep. Quarterfinals,1f992add-396d-4b0f-ab0d-17decd7e5956,Heat 6,2e32c658-7255-4a74-aa1e-3555a22db580,91,5,5,8.960,43.160,+1.062,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,1,2,7.100,7.100,+0.200,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,2,2,8.960,16.060,+0.060,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,3,1,8.470,24.530,0.000,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,4,1,8.720,33.250,0.000,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,5,1,8.936,42.186,0.000,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,1,1,6.900,6.900,0.000,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,2,1,9.100,16.000,0.000,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,3,2,8.610,24.610,+0.080,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,4,2,8.790,33.400,+0.150,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,e37b1fad-a1c9-4a79-94fe-15626c82d058,49,5,2,8.882,42.282,+0.096,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,1,3,7.240,7.240,+0.340,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,2,3,8.950,16.190,+0.190,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,3,3,8.620,24.810,+0.280,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,4,3,8.810,33.620,+0.370,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,107,5,3,9.032,42.652,+0.466,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,1,4,7.350,7.350,+0.450,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,2,4,9.020,16.370,+0.370,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,3,4,8.610,24.980,+0.450,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,4,4,8.820,33.800,+0.550,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,135,5,4,9.010,42.810,+0.624,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,1,5,7.630,7.630,+0.730,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,2,5,9.130,16.760,+0.760,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,3,5,8.680,25.440,+0.910,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,4,5,8.840,34.280,+1.030,seoul_man
+Rep. Quarterfinals,09813cb6-b619-4653-a2de-960aae7f6af1,Heat 7,dc16e0b5-a168-4cc2-84a8-26828fa2373c,73,5,5,8.976,43.256,+1.070,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,996efec1-974c-4d9d-8e24-17babe3ddf17,105,1,2,7.060,7.060,+0.130,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,996efec1-974c-4d9d-8e24-17babe3ddf17,105,2,2,9.030,16.090,+0.110,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,996efec1-974c-4d9d-8e24-17babe3ddf17,105,3,1,8.460,24.550,0.000,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,996efec1-974c-4d9d-8e24-17babe3ddf17,105,4,1,8.620,33.170,0.000,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,996efec1-974c-4d9d-8e24-17babe3ddf17,105,5,1,8.735,41.905,0.000,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,1,1,6.930,6.930,0.000,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,2,1,9.050,15.980,0.000,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,3,2,8.710,24.690,+0.140,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,4,2,8.680,33.370,+0.200,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,60,5,2,8.782,42.152,+0.247,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,1,4,7.350,7.350,+0.420,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,2,3,9.070,16.420,+0.440,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,3,3,8.560,24.980,+0.430,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,4,3,8.640,33.620,+0.450,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,b510697a-fcd6-4c6b-9740-3cc6dbf57105,162,5,3,8.975,42.595,+0.690,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,05c24d5b-7213-468e-ac28-c431740f44ff,113,1,5,7.690,7.690,+0.760,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,05c24d5b-7213-468e-ac28-c431740f44ff,113,2,4,9.220,16.910,+0.930,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,05c24d5b-7213-468e-ac28-c431740f44ff,113,3,4,8.770,25.680,+1.130,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,05c24d5b-7213-468e-ac28-c431740f44ff,113,4,4,9.060,34.740,+1.570,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,05c24d5b-7213-468e-ac28-c431740f44ff,113,5,4,9.611,44.351,+2.446,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,1,3,7.230,7.230,+0.300,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,2,5,10.220,17.450,+1.470,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,3,5,10.900,28.350,+3.800,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,4,5,11.150,39.500,+6.330,seoul_man
+Rep. Quarterfinals,fc0a7b60-4436-4ee7-bd86-54b841394c19,Heat 8,a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,31,5,5,10.969,50.469,+8.564,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,1,3,7.130,7.130,+0.220,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,2,3,9.190,16.320,+0.280,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,3,3,8.460,24.780,+0.180,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,4,1,8.560,33.340,0.000,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4db2541f-8c53-49cb-af7d-ff587761fd00,58,5,1,8.916,42.256,0.000,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,1,4,7.270,7.270,+0.360,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,2,4,9.170,16.440,+0.400,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,3,4,8.440,24.880,+0.280,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,4,2,8.590,33.470,+0.130,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,41802b7a-0a0c-48f4-9fe8-3776c419dcc6,36,5,2,8.841,42.311,+0.055,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,1,5,7.490,7.490,+0.580,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,2,5,9.030,16.520,+0.480,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,3,5,8.480,25.000,+0.400,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,4,3,8.690,33.690,+0.350,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,4c36e64c-a635-45b3-8947-7b41a9430ecb,90,5,3,8.760,42.450,+0.194,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,29659c64-b0e6-4e52-8121-665fcca355d7,98,1,1,6.910,6.910,0.000,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,29659c64-b0e6-4e52-8121-665fcca355d7,98,2,1,9.130,16.040,0.000,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,29659c64-b0e6-4e52-8121-665fcca355d7,98,3,1,8.560,24.600,0.000,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,29659c64-b0e6-4e52-8121-665fcca355d7,98,4,5,9.510,34.110,+0.770,seoul_man
+Rep. Semifinals,91b1628d-5a16-46e0-9f16-6880619b7d5e,Heat 1,29659c64-b0e6-4e52-8121-665fcca355d7,98,5,5,10.254,44.364,+2.108,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,1,3,7.070,7.070,+0.290,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,2,3,8.720,15.790,+0.300,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,3,3,8.280,24.070,+0.170,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,4,1,8.530,32.600,0.000,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,5,1,8.674,41.274,0.000,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,1,4,7.210,7.210,+0.430,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,2,4,8.770,15.980,+0.490,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,3,4,8.230,24.210,+0.310,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,4,2,8.480,32.690,+0.090,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,ec754c8a-dada-4421-bb64-e64926e6b4c4,26,5,2,8.593,41.283,+0.009,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,1,5,7.320,7.320,+0.540,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,2,5,8.800,16.120,+0.630,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,3,5,8.330,24.450,+0.550,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,4,3,8.410,32.860,+0.260,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,db9e00f8-3eb5-458a-b8d1-21582b6838a9,27,5,3,8.556,41.416,+0.142,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,1,2,7.000,7.000,+0.220,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,2,2,8.720,15.720,+0.230,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,3,2,8.260,23.980,+0.080,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,4,4,9.030,33.010,+0.410,seoul_man
+Rep. Semifinals,8c81587f-f245-4234-bfb9-46911bafaab7,Heat 2,996efec1-974c-4d9d-8e24-17babe3ddf17,105,5,4,9.364,42.374,+1.100,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,1,1,6.600,6.600,0.000,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,2,1,8.720,15.320,0.000,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,3,1,8.190,23.510,0.000,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,4,1,8.440,31.950,0.000,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,5,1,8.849,40.799,0.000,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,1,2,6.780,6.780,+0.180,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,2,2,8.760,15.540,+0.220,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,3,2,8.220,23.760,+0.250,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,4,2,8.300,32.060,+0.110,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,5,2,8.762,40.822,+0.023,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,1,5,7.120,7.120,+0.520,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,2,5,8.750,15.870,+0.550,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,3,5,8.220,24.090,+0.580,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,4,3,8.390,32.480,+0.530,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,5,3,8.561,41.041,+0.242,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,89ebc323-0aef-4373-bc5c-6694f0b76935,17,1,3,6.950,6.950,+0.350,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,89ebc323-0aef-4373-bc5c-6694f0b76935,17,2,3,8.710,15.660,+0.340,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,89ebc323-0aef-4373-bc5c-6694f0b76935,17,3,3,8.260,23.920,+0.410,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,89ebc323-0aef-4373-bc5c-6694f0b76935,17,4,5,28.900,52.820,+20.870,seoul_man
+Quarterfinals,7a104a86-1dc0-4b89-8b54-dbd03770017e,Heat 1,89ebc323-0aef-4373-bc5c-6694f0b76935,17,5,5,18.383,1:11.203,+30.404,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,59ae22e1-2772-412d-8714-8ac113571053,10,1,2,6.980,6.980,+0.080,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,59ae22e1-2772-412d-8714-8ac113571053,10,2,2,8.880,15.860,+0.110,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,59ae22e1-2772-412d-8714-8ac113571053,10,3,2,8.200,24.060,+0.090,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,59ae22e1-2772-412d-8714-8ac113571053,10,4,1,8.160,32.220,0.000,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,59ae22e1-2772-412d-8714-8ac113571053,10,5,1,8.728,40.948,0.000,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,1,1,6.900,6.900,0.000,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,2,1,8.850,15.750,0.000,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,3,1,8.220,23.970,0.000,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,4,2,8.320,32.290,+0.070,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,5,2,8.806,41.096,+0.148,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,1,3,7.100,7.100,+0.200,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,2,3,8.890,15.990,+0.240,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,3,3,8.180,24.170,+0.200,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,4,3,8.320,32.490,+0.270,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,40,5,3,8.693,41.183,+0.235,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,1,4,7.380,7.380,+0.480,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,2,4,8.790,16.170,+0.420,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,3,4,8.260,24.430,+0.460,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,4,4,8.360,32.790,+0.570,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,21cc4579-3a1c-4a8a-bf39-5a7475bb319c,20,5,4,8.646,41.436,+0.488,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,1,5,7.510,7.510,+0.610,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,2,5,15.380,22.890,+7.140,seoul_man
+Quarterfinals,e647cf4c-c345-4eb0-9384-86d73e8bc46a,Heat 2,50ac7787-2631-46d7-8d95-edc0c560a7ff,35,3,5,13.190,36.080,+12.110,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,1,1,6.640,6.640,0.000,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,2,1,8.760,15.400,0.000,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,3,1,8.310,23.710,0.000,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,4,1,8.490,32.200,0.000,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,5,1,8.657,40.857,0.000,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,c4b9df64-f59a-4f18-b837-0de23875f136,7,1,2,6.800,6.800,+0.160,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,c4b9df64-f59a-4f18-b837-0de23875f136,7,2,2,8.700,15.500,+0.100,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,c4b9df64-f59a-4f18-b837-0de23875f136,7,3,2,8.300,23.800,+0.090,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,c4b9df64-f59a-4f18-b837-0de23875f136,7,4,2,8.530,32.330,+0.130,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,c4b9df64-f59a-4f18-b837-0de23875f136,7,5,2,8.590,40.920,+0.063,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,013f54e5-d12a-4970-84bb-e2e40a383950,19,1,3,6.980,6.980,+0.340,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,013f54e5-d12a-4970-84bb-e2e40a383950,19,2,3,8.750,15.730,+0.330,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,013f54e5-d12a-4970-84bb-e2e40a383950,19,3,3,8.170,23.900,+0.190,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,013f54e5-d12a-4970-84bb-e2e40a383950,19,4,3,8.530,32.430,+0.230,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,013f54e5-d12a-4970-84bb-e2e40a383950,19,5,3,8.567,40.997,+0.140,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,1,5,7.200,7.200,+0.560,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,2,4,8.660,15.860,+0.460,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,3,4,8.140,24.000,+0.290,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,4,4,8.490,32.490,+0.290,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,b04d2e6d-b92c-4548-ac22-e5930ca27da4,18,5,4,8.642,41.132,+0.275,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,996efec1-974c-4d9d-8e24-17babe3ddf17,105,1,6,7.330,7.330,+0.690,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,996efec1-974c-4d9d-8e24-17babe3ddf17,105,2,6,8.680,16.010,+0.610,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,996efec1-974c-4d9d-8e24-17babe3ddf17,105,3,5,8.180,24.190,+0.480,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,996efec1-974c-4d9d-8e24-17babe3ddf17,105,4,5,8.370,32.560,+0.360,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,996efec1-974c-4d9d-8e24-17babe3ddf17,105,5,5,8.768,41.328,+0.471,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,5dc025c0-4553-4107-b42f-a7a6794f8495,8,1,4,7.030,7.030,+0.390,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,5dc025c0-4553-4107-b42f-a7a6794f8495,8,2,5,8.850,15.880,+0.480,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,5dc025c0-4553-4107-b42f-a7a6794f8495,8,3,6,8.380,24.260,+0.550,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,5dc025c0-4553-4107-b42f-a7a6794f8495,8,4,6,8.470,32.730,+0.530,seoul_man
+Quarterfinals,cab8b3e6-7699-4624-864f-117c0810d859,Heat 3,5dc025c0-4553-4107-b42f-a7a6794f8495,8,5,6,8.669,41.399,+0.542,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,1,2,6.840,6.840,+0.150,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,2,2,8.700,15.540,+0.100,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,3,2,8.130,23.670,+0.020,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,4,1,8.510,32.180,0.000,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,f7bdc857-3997-4abc-bfc9-80ee330f8563,3,5,1,8.561,40.741,0.000,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,1109e535-8491-4985-857e-610f26178f4c,48,1,1,6.690,6.690,0.000,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,1109e535-8491-4985-857e-610f26178f4c,48,2,1,8.750,15.440,0.000,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,1109e535-8491-4985-857e-610f26178f4c,48,3,1,8.210,23.650,0.000,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,1109e535-8491-4985-857e-610f26178f4c,48,4,2,8.620,32.270,+0.090,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,1109e535-8491-4985-857e-610f26178f4c,48,5,2,8.746,41.016,+0.275,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,29659c64-b0e6-4e52-8121-665fcca355d7,98,1,5,7.200,7.200,+0.510,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,29659c64-b0e6-4e52-8121-665fcca355d7,98,2,5,8.910,16.110,+0.670,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,29659c64-b0e6-4e52-8121-665fcca355d7,98,3,5,8.150,24.260,+0.610,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,29659c64-b0e6-4e52-8121-665fcca355d7,98,4,5,8.480,32.740,+0.560,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,29659c64-b0e6-4e52-8121-665fcca355d7,98,5,3,8.754,41.494,+0.753,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,4db2541f-8c53-49cb-af7d-ff587761fd00,58,1,6,7.360,7.360,+0.670,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,4db2541f-8c53-49cb-af7d-ff587761fd00,58,2,6,8.860,16.220,+0.780,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,4db2541f-8c53-49cb-af7d-ff587761fd00,58,3,6,8.250,24.470,+0.820,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,4db2541f-8c53-49cb-af7d-ff587761fd00,58,4,6,8.470,32.940,+0.760,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,4db2541f-8c53-49cb-af7d-ff587761fd00,58,5,4,8.682,41.622,+0.881,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,1,4,7.030,7.030,+0.340,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,2,4,8.770,15.800,+0.360,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,3,4,8.110,23.910,+0.260,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,4,3,8.520,32.430,+0.250,seoul_man
+Quarterfinals,10afd586-a194-42c6-9ba6-66740ef04f95,Heat 4,46283c04-b51a-47f3-ac99-fe66e7dd778d,129,5,6,36.500,1:08.930,+28.189,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,1,1,6.670,6.670,0.000,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,2,1,8.720,15.390,0.000,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,3,1,8.310,23.700,0.000,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,4,1,8.510,32.210,0.000,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,f75b0c0f-107d-4474-bb47-45b2926ff298,2,5,1,8.763,40.973,0.000,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,1,2,6.750,6.750,+0.080,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,2,2,8.790,15.540,+0.150,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,3,2,8.240,23.780,+0.080,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,4,2,8.540,32.320,+0.110,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,5,2,8.738,41.058,+0.085,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,59ae22e1-2772-412d-8714-8ac113571053,10,1,3,6.860,6.860,+0.190,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,59ae22e1-2772-412d-8714-8ac113571053,10,2,3,8.760,15.620,+0.230,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,59ae22e1-2772-412d-8714-8ac113571053,10,3,3,8.210,23.830,+0.130,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,59ae22e1-2772-412d-8714-8ac113571053,10,4,3,8.620,32.450,+0.240,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,59ae22e1-2772-412d-8714-8ac113571053,10,5,3,8.645,41.095,+0.122,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,1,5,7.310,7.310,+0.640,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,2,5,8.620,15.930,+0.540,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,3,5,8.140,24.070,+0.370,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,4,5,8.470,32.540,+0.330,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,5,4,8.608,41.148,+0.175,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,1,4,7.030,7.030,+0.360,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,2,4,8.720,15.750,+0.360,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,3,4,8.150,23.900,+0.200,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,4,4,8.580,32.480,+0.270,seoul_man
+Semifinals,9e2cf475-8cab-43f2-8653-9ed5d401d37a,Heat 1,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,5,5,8.998,41.478,+0.505,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,1,4,6.960,6.960,+0.480,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,2,4,8.670,15.630,+0.490,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,3,4,8.170,23.800,+0.130,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,4,2,8.490,32.290,+0.040,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,013f54e5-d12a-4970-84bb-e2e40a383950,19,5,1,8.566,40.856,0.000,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,c4b9df64-f59a-4f18-b837-0de23875f136,7,1,3,6.830,6.830,+0.350,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,c4b9df64-f59a-4f18-b837-0de23875f136,7,2,3,8.670,15.500,+0.360,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,c4b9df64-f59a-4f18-b837-0de23875f136,7,3,2,8.200,23.700,+0.030,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,c4b9df64-f59a-4f18-b837-0de23875f136,7,4,1,8.550,32.250,0.000,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,c4b9df64-f59a-4f18-b837-0de23875f136,7,5,2,8.960,41.210,+0.354,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,1109e535-8491-4985-857e-610f26178f4c,48,1,5,7.120,7.120,+0.640,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,1109e535-8491-4985-857e-610f26178f4c,48,2,5,8.700,15.820,+0.680,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,1109e535-8491-4985-857e-610f26178f4c,48,3,5,8.110,23.930,+0.260,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,1109e535-8491-4985-857e-610f26178f4c,48,4,3,8.490,32.420,+0.170,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,1109e535-8491-4985-857e-610f26178f4c,48,5,3,8.806,41.226,+0.370,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,1,1,6.480,6.480,0.000,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,2,1,8.660,15.140,0.000,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,3,1,8.530,23.670,0.000,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,4,5,31.380,55.050,+22.800,seoul_man
+Semifinals,3b236f9b-4609-4021-8a3e-becb0deddb15,Heat 2,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,5,5,23.810,1:18.860,+38.004,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,f75b0c0f-107d-4474-bb47-45b2926ff298,2,1,1,6.630,6.630,0.000,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,f75b0c0f-107d-4474-bb47-45b2926ff298,2,2,1,9.000,15.630,0.000,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,f75b0c0f-107d-4474-bb47-45b2926ff298,2,3,1,8.690,24.320,0.000,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,f75b0c0f-107d-4474-bb47-45b2926ff298,2,4,1,8.630,32.950,0.000,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,f75b0c0f-107d-4474-bb47-45b2926ff298,2,5,1,8.731,41.681,0.000,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,c4b9df64-f59a-4f18-b837-0de23875f136,7,1,4,6.880,6.880,+0.250,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,c4b9df64-f59a-4f18-b837-0de23875f136,7,2,3,9.010,15.890,+0.260,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,c4b9df64-f59a-4f18-b837-0de23875f136,7,3,3,8.660,24.550,+0.230,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,c4b9df64-f59a-4f18-b837-0de23875f136,7,4,3,8.620,33.170,+0.220,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,c4b9df64-f59a-4f18-b837-0de23875f136,7,5,2,8.589,41.759,+0.078,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,013f54e5-d12a-4970-84bb-e2e40a383950,19,1,2,6.740,6.740,+0.110,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,013f54e5-d12a-4970-84bb-e2e40a383950,19,2,2,9.020,15.760,+0.130,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,013f54e5-d12a-4970-84bb-e2e40a383950,19,3,2,8.670,24.430,+0.110,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,013f54e5-d12a-4970-84bb-e2e40a383950,19,4,2,8.610,33.040,+0.090,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,013f54e5-d12a-4970-84bb-e2e40a383950,19,5,3,8.760,41.800,+0.119,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,1,5,16.360,16.360,+9.730,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,2,5,11.570,27.930,+12.300,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,3,5,9.160,37.090,+12.770,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,4,5,9.030,46.120,+13.170,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,a15aaec4-779d-4ca4-916a-6589b7678c2f,46,5,4,9.529,55.649,+13.968,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,1,3,6.820,6.820,+0.190,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,2,3,9.070,15.890,+0.260,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,3,4,18.560,34.450,+10.130,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,4,4,11.640,46.090,+13.140,seoul_man
+Finals,8e64987b-7cd5-4d05-8b97-6655d3e142c4,Final A,2560bda6-2a9e-4b0c-8adf-a91b273d71b2,42,5,5,10.723,56.813,+15.132,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,1,1,6.860,6.860,0.000,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,2,1,8.870,15.730,0.000,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,3,1,8.360,24.090,0.000,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,4,1,8.370,32.460,0.000,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,ff9963a6-23ac-4c1d-ae21-1c5028264d69,13,5,1,8.650,41.110,0.000,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,1,2,7.010,7.010,+0.150,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,2,2,8.880,15.890,+0.160,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,3,2,8.300,24.190,+0.100,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,4,2,8.440,32.630,+0.170,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,29f872c9-cead-450c-9997-3b6d6dacc1e8,23,5,2,8.774,41.404,+0.294,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,1109e535-8491-4985-857e-610f26178f4c,48,1,3,7.050,7.050,+0.190,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,1109e535-8491-4985-857e-610f26178f4c,48,2,3,8.980,16.030,+0.300,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,1109e535-8491-4985-857e-610f26178f4c,48,3,3,8.260,24.290,+0.200,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,1109e535-8491-4985-857e-610f26178f4c,48,4,3,8.410,32.700,+0.240,seoul_man
+Finals,2449ef8c-2c11-4893-9f8f-ae0c63291495,Final B,1109e535-8491-4985-857e-610f26178f4c,48,5,3,8.731,41.431,+0.321,seoul_man

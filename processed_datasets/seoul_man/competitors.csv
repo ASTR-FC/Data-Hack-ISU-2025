@@ -1,0 +1,75 @@
+competition_competitor_id,first_name,last_name,gender,organization_code,started_for_nf_country_name,started_for_nf_name,started_for_nf_code,date_of_birth,json_source
+f75b0c0f-107d-4474-bb47-45b2926ff298,Steven,DUBOIS,M,CAN,Canada,Speed Skating Canada,CAN,1997-05-01T00:00:00+00:00,seoul_man
+c4b9df64-f59a-4f18-b837-0de23875f136,Jordan,PIERRE-GILLES,M,CAN,Canada,Speed Skating Canada,CAN,1998-05-24T00:00:00+00:00,seoul_man
+013f54e5-d12a-4970-84bb-e2e40a383950,Roberts,KRUZBERGS,M,LAT,Latvia,Latvian Skating Association,LAT,2001-04-18T00:00:00+00:00,seoul_man
+a15aaec4-779d-4ca4-916a-6589b7678c2f,Shogo,MIYATA,M,JPN,Japan,Japan Skating Federation,JPN,2003-01-27T00:00:00+00:00,seoul_man
+2560bda6-2a9e-4b0c-8adf-a91b273d71b2,Brandon,KIM,M,USA,United States of America,U.S. Speedskating,USA,2001-08-30T00:00:00+00:00,seoul_man
+ff9963a6-23ac-4c1d-ae21-1c5028264d69,Jens,VAN 'T WOUT,M,NED,Netherlands,Koninklijke Nederlandsche Schaatsenrijders Bond,NED,2001-10-06T00:00:00+00:00,seoul_man
+29f872c9-cead-450c-9997-3b6d6dacc1e8,Itzhak,DE LAAT,M,NED,Netherlands,Koninklijke Nederlandsche Schaatsenrijders Bond,NED,1994-06-13T00:00:00+00:00,seoul_man
+1109e535-8491-4985-857e-610f26178f4c,Tae Sung,KIM,M,KOR,Republic of Korea,Korea Skating Union,KOR,2001-10-13T00:00:00+00:00,seoul_man
+59ae22e1-2772-412d-8714-8ac113571053,Shaoang,LIU,M,CHN,China,Chinese Skating Association,CHN,1998-03-13T00:00:00+00:00,seoul_man
+f7bdc857-3997-4abc-bfc9-80ee330f8563,William,DANDJINOU,M,CAN,Canada,Speed Skating Canada,CAN,2001-10-01T00:00:00+00:00,seoul_man
+694b1f62-3ad8-4d0d-bcde-31fe41f01f8c,Thomas,NADALINI,M,ITA,Italy,Federazione Italiana Sport del Ghiaccio,ITA,2002-05-02T00:00:00+00:00,seoul_man
+29659c64-b0e6-4e52-8121-665fcca355d7,Martin,KOLENC,M,CRO,Croatia,Croatian Skating Federation,CRO,1996-10-01T00:00:00+00:00,seoul_man
+21cc4579-3a1c-4a8a-bf39-5a7475bb319c,Teun,BOER,M,NED,Netherlands,Koninklijke Nederlandsche Schaatsenrijders Bond,NED,2001-05-05T00:00:00+00:00,seoul_man
+b04d2e6d-b92c-4548-ac22-e5930ca27da4,Michal,NIEWINSKI,M,POL,Poland,Polish Speed Skating Association,POL,2003-07-12T00:00:00+00:00,seoul_man
+89ebc323-0aef-4373-bc5c-6694f0b76935,Denis,NIKISHA,M,KAZ,Kazakhstan,Kazakhstan Figure Skating Skating Union,KAZ,1995-08-07T00:00:00+00:00,seoul_man
+4db2541f-8c53-49cb-af7d-ff587761fd00,Peter,JASZAPATI,M,HUN,Hungary,Hungarian National Skating Federation,HUN,2003-02-07T00:00:00+00:00,seoul_man
+46283c04-b51a-47f3-ac99-fe66e7dd778d,Janghyuk,PARK,M,KOR,Republic of Korea,Korea Skating Union,KOR,1998-10-31T00:00:00+00:00,seoul_man
+50ac7787-2631-46d7-8d95-edc0c560a7ff,Andrew,HEO,M,USA,United States of America,U.S. Speedskating,USA,2001-03-07T00:00:00+00:00,seoul_man
+996efec1-974c-4d9d-8e24-17babe3ddf17,Lorenzo,PREVITALI,M,ITA,Italy,Federazione Italiana Sport del Ghiaccio,ITA,2005-07-18T00:00:00+00:00,seoul_man
+5dc025c0-4553-4107-b42f-a7a6794f8495,Stijn,DESMET,M,BEL,Belgium,Fédération Royale Belge de Patinage de Vitesse,BEL,1998-04-10T00:00:00+00:00,seoul_man
+af71dca0-c9fb-4f77-be3a-8ff047e99c39,Oleh,HANDEI,M,UKR,Ukraine,Ukrainian Speed Skating Federation,UKR,1999-03-05T00:00:00+00:00,seoul_man
+41802b7a-0a0c-48f4-9fe8-3776c419dcc6,Brendan,COREY,M,AUS,Australia,Australian Ice Racing Inc.,AUS,1997-01-21T00:00:00+00:00,seoul_man
+ec754c8a-dada-4421-bb64-e64926e6b4c4,Shaolin,LIU,M,CHN,China,Chinese Skating Association,CHN,1995-11-20T00:00:00+00:00,seoul_man
+4c36e64c-a635-45b3-8947-7b41a9430ecb,Zhanshuo,LOU,M,HKG,"Hong Kong, China",Hong Kong Skating Union Limited,HKG,2005-09-02T00:00:00+00:00,seoul_man
+db9e00f8-3eb5-458a-b8d1-21582b6838a9,Niall,TREACY,M,GBR,Great Britain,British Ice Skating,GBR,2000-07-22T00:00:00+00:00,seoul_man
+843abd46-cc28-4728-be4c-a887965aa21d,Abzal,AZHGALIYEV,M,KAZ,Kazakhstan,Kazakhstan Figure Skating Skating Union,KAZ,1992-06-30T00:00:00+00:00,seoul_man
+2dea1d2c-3ff7-49de-b8b5-a98466f53d69,Long,SUN,M,CHN,China,Chinese Skating Association,CHN,2000-08-28T00:00:00+00:00,seoul_man
+e37b1fad-a1c9-4a79-94fe-15626c82d058,Furkan,AKAR,M,TUR,Turkiye,Turkish Ice Skating Federation,TUR,2002-03-06T00:00:00+00:00,seoul_man
+7b9d12ae-44ce-4fb8-8e3e-b2bb8ee3c63c,Nico,ANDERMANN,M,AUT,Austria,Österreichischer Eisschnelllauf Verband,AUT,1999-09-25T00:00:00+00:00,seoul_man
+5445c3b6-260c-4627-aff7-5c87accb1e3c,Adil,GALIAKHMETOV,M,KAZ,Kazakhstan,Kazakhstan Figure Skating Skating Union,KAZ,1998-11-16T00:00:00+00:00,seoul_man
+17cf500c-d597-4fd2-ac27-62e8aabe6d11,Diane,SELLIER,M,POL,Poland,Polish Speed Skating Association,POL,2001-07-29T00:00:00+00:00,seoul_man
+c7c8d6cd-9ad1-4028-8411-a2d2f121c8be,Sean,MCANUFF,M,IRL,Ireland,Ice Skating Association of Ireland,IRL,1997-07-18T00:00:00+00:00,seoul_man
+d0aa76b3-ea67-499e-84fb-50b0420310e6,Lukas,MACDONALD,M,NZL,New Zealand,Ice Speed Skating New Zealand Inc.,NZL,2001-08-10T00:00:00+00:00,seoul_man
+7241404a-ad95-48e4-828b-a639b7b2cf9f,Muhammed,BOZDAG,M,TUR,Turkiye,Turkish Ice Skating Federation,TUR,2007-06-17T00:00:00+00:00,seoul_man
+6966756c-063a-4dad-8481-de3a5060fba8,Rostyslav,LEONTENKO,M,UKR,Ukraine,Ukrainian Speed Skating Federation,UKR,2004-09-14T00:00:00+00:00,seoul_man
+86308f5c-9f44-4b71-89bc-ff577fcd76a0,Ivan,MARTINIC,M,CRO,Croatia,Croatian Skating Federation,CRO,1996-05-07T00:00:00+00:00,seoul_man
+07b07e7b-b516-4d77-a204-91e3c504c294,Radek,FAJKUS,M,CZE,Czechia,Czech Speed Skating Federation,CZE,2001-08-31T00:00:00+00:00,seoul_man
+4ddfb510-ee35-4c1b-a0c1-f7ba7a228594,Yui,MATSUBAYASHI,M,JPN,Japan,Japan Skating Federation,JPN,2002-12-05T00:00:00+00:00,seoul_man
+d39dfaf3-6fb7-43e7-ae32-cddce46b22e4,Warre,NOIRON,M,BEL,Belgium,Fédération Royale Belge de Patinage de Vitesse,BEL,2005-01-05T00:00:00+00:00,seoul_man
+bd75d3d0-bab6-4daa-90ea-0f246ac1dd2f,Tobias,WOLF,M,AUT,Austria,Österreichischer Eisschnelllauf Verband,AUT,2004-11-07T00:00:00+00:00,seoul_man
+dc80c9c3-094f-4762-a72d-5dc47a1b9d47,Kosei,HAYASHI,M,JPN,Japan,Japan Skating Federation,JPN,2003-10-23T00:00:00+00:00,seoul_man
+b510697a-fcd6-4c6b-9740-3cc6dbf57105,Lucas Henry,KOO,M,BRA,Brazil,Brazilian Ice Sports Federation,BRA,2006-11-20T00:00:00+00:00,seoul_man
+28a5fc1f-30c5-4a95-b82b-6c6fe56c6b70,Fredrik,PEDERSEN,M,NOR,Norway,Norges Skøyteforbund,NOR,2006-04-07T00:00:00+00:00,seoul_man
+05c24d5b-7213-468e-ac28-c431740f44ff,Maxim,MAXIMOV,M,BUL,Bulgaria,Bulgarian Skating Federation,BUL,2006-02-18T00:00:00+00:00,seoul_man
+aec5d4c4-5b9a-49a6-9803-d76affd5bdae,Jonathan,MOODY,M,GBR,Great Britain,British Ice Skating,GBR,1998-08-23T00:00:00+00:00,seoul_man
+270ef03a-79ea-488d-8444-5d8af2e4c06c,Joshua,KAH,M,NZL,New Zealand,Ice Speed Skating New Zealand Inc.,NZL,2000-06-24T00:00:00+00:00,seoul_man
+12d00681-72a5-4a5e-8b7f-888307030a79,Yaroslav,MOROZOV,M,UKR,Ukraine,Ukrainian Speed Skating Federation,UKR,2004-07-21T00:00:00+00:00,seoul_man
+035de887-d22a-4161-8f98-03ffbea1fec1,Chonlachart,TAPROM,M,THA,Thailand,Figure and Speed Skating Association of Thailand,THA,2007-05-08T00:00:00+00:00,seoul_man
+e8c2bb25-db3d-416c-a9d4-49f1721c7e1e,Stefan-Alexander,KUMURDJIEV,M,BUL,Bulgaria,Bulgarian Skating Federation,BUL,2005-08-01T00:00:00+00:00,seoul_man
+a9d7de7a-d561-43e7-9d2b-a25f5b720ea8,Lukasz,KUCZYNSKI,M,POL,Poland,Polish Speed Skating Association,POL,1999-06-23T00:00:00+00:00,seoul_man
+1f32c0f8-b7d1-4442-a6a5-ab8763ab06d1,Lucas,WAREHAM,M,AUS,Australia,Australian Ice Racing Inc.,AUS,2003-02-02T00:00:00+00:00,seoul_man
+c7b3a7a6-7d73-4870-81c0-983009b1a7df,Westley,YATES,M,GBR,Great Britain,British Ice Skating,GBR,2000-02-21T00:00:00+00:00,seoul_man
+5f994194-cdf8-41f6-b03a-f7de5326b09a,Huan-Chen,LAI TSAI,M,TPE,Chinese Taipei,Chinese Taipei Skating Union,TPE,2006-10-20T00:00:00+00:00,seoul_man
+2e32c658-7255-4a74-aa1e-3555a22db580,Liam,O BRIEN,M,IRL,Ireland,Ice Skating Association of Ireland,IRL,1998-11-19T00:00:00+00:00,seoul_man
+dc16e0b5-a168-4cc2-84a8-26828fa2373c,Robin,BENDIG,M,GER,Germany,Deutsche Eisschelllauf-Gemeinschaft,GER,2000-04-08T00:00:00+00:00,seoul_man
+01e4dcbf-164f-4a97-aef5-3587d81e1998,Yanghun Ben,JUNG,M,GER,Germany,Deutsche Eisschelllauf-Gemeinschaft,GER,2002-04-04T00:00:00+00:00,seoul_man
+398f4d0a-6c05-40de-b3f1-8866b6ff5158,Marcus,HOWARD,M,USA,United States of America,U.S. Speedskating,USA,2003-10-22T00:00:00+00:00,seoul_man
+9cdf9c33-93b3-4bd7-a4d0-fb00ba6ebcd3,Pietro,SIGHEL,M,ITA,Italy,Federazione Italiana Sport del Ghiaccio,ITA,1999-07-15T00:00:00+00:00,seoul_man
+8d006479-00dc-4baa-82af-354a2f3f26b3,Reinis,BERZINS,M,LAT,Latvia,Latvian Skating Association,LAT,2001-07-10T00:00:00+00:00,seoul_man
+50258917-cf59-4b67-8059-e8a94708cf33,Adam,GRANASZTOI,M,HUN,Hungary,Hungarian National Skating Federation,HUN,2005-11-23T00:00:00+00:00,seoul_man
+b175d978-795a-464a-b6ba-68e8d3edec0a,Jonas,HAMMERMULLER,M,GER,Germany,Deutsche Eisschelllauf-Gemeinschaft,GER,2004-03-10T00:00:00+00:00,seoul_man
+803fa954-f0ae-4120-bf37-af6a795a1341,Ryo,ONG,M,SGP,Singapore,Singapore Ice Skating Association,SGP,2006-07-28T00:00:00+00:00,seoul_man
+4a9f8b2e-e3fa-4305-b1f6-df066c32d3c2,Mark,CSIZMADIA,M,HUN,Hungary,Hungarian National Skating Federation,HUN,2005-05-04T00:00:00+00:00,seoul_man
+69ff363e-e62c-408d-934a-8315964a100d,Brandon Yan Kai,POK,M,SGP,Singapore,Singapore Ice Skating Association,SGP,2006-05-05T00:00:00+00:00,seoul_man
+a069c448-0fa1-471c-b30b-4f87ba4fa44d,Warre,VAN DAMME,M,BEL,Belgium,Fédération Royale Belge de Patinage de Vitesse,BEL,2003-01-14T00:00:00+00:00,seoul_man
+684d77eb-e2b4-4b0f-b5aa-7a32a1cc99ac,Peter,MURPHY,M,LUX,Luxembourg,Union Luxembourgeoise de Patinage de Vitesse,LUX,2000-03-24T00:00:00+00:00,seoul_man
+530dda22-2d58-4a73-8a5f-be5ed4d3c203,Eklavya,JAGAL,M,IND,India,Ice Skating Association of India,IND,2007-02-14T00:00:00+00:00,seoul_man
+d3f94799-45ef-483d-98a4-ca33cfbd22d1,Phooripat,CHANGMAI,M,THA,Thailand,Figure and Speed Skating Association of Thailand,THA,2007-02-21T00:00:00+00:00,seoul_man
+6ee4046c-f05f-4895-b0fe-77c5dc78f644,Munkh-Erdene,ERDENEBILEG,M,MGL,Mongolia,Skating Union of Mongolia,MGL,2004-11-23T00:00:00+00:00,seoul_man
+b970ce3d-6bfd-4007-a836-19d13fca9c9d,Zdenek,SEJPAL,M,CZE,Czechia,Czech Speed Skating Federation,CZE,2001-04-26T00:00:00+00:00,seoul_man
+abe82db9-af4f-44cc-a51a-04967c7e4a5c,Miika,KLEVSTUEN,M,NOR,Norway,Norges Skøyteforbund,NOR,2006-09-05T00:00:00+00:00,seoul_man
+8c4b0fed-35c0-4465-8de1-146367c4af73,Ivan,DONCHEV,M,BUL,Bulgaria,Bulgarian Skating Federation,BUL,2005-12-08T00:00:00+00:00,seoul_man
+4f8a2b6d-729e-436f-b348-b1d227e2d2e1,Murat,TAHTACI,M,TUR,Turkiye,Turkish Ice Skating Federation,TUR,2002-08-14T00:00:00+00:00,seoul_man
+af470988-b4c5-4d6a-b176-82176f4743e7,Jiwon,PARK,M,KOR,Republic of Korea,Korea Skating Union,KOR,1996-09-23T00:00:00+00:00,seoul_man

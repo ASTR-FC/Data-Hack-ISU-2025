@@ -1,0 +1,8 @@
+round_name,display_order,state,start_date,start_year,start_month,start_day,start_hour,start_minute,time_zone,num_heats,json_source
+Preliminaries,1,,2024-12-13T10:13:00+00:00,2024,12,13,10,13,Etc/UTC,11,seoul_man
+Heats,2,,2024-12-13T14:58:00+00:00,2024,12,13,14,58,Etc/UTC,8,seoul_man
+Rep. Quarterfinals,3,,2024-12-14T11:38:00+00:00,2024,12,14,11,38,Etc/UTC,8,seoul_man
+Rep. Semifinals,4,,2024-12-14T12:17:00+00:00,2024,12,14,12,17,Etc/UTC,2,seoul_man
+Quarterfinals,5,,2024-12-14T15:22:00+00:00,2024,12,14,15,22,Etc/UTC,4,seoul_man
+Semifinals,6,,2024-12-14T15:53:00+00:00,2024,12,14,15,53,Etc/UTC,2,seoul_man
+Finals,7,,2024-12-14T16:31:00+00:00,2024,12,14,16,31,Etc/UTC,2,seoul_man

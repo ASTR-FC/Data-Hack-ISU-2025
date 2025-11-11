@@ -1,0 +1,2 @@
+event_id,event_name,discipline_name,discipline_distance,sport_code,gender,display_order,status,start_date,start_year,start_month,start_day,start_hour,start_minute,time_zone,json_source
+fca24ec1-f917-47f3-9fca-1d21e68d5f8a,ISU Short Track World Tour,Men 500 m,500,ST,Men,2,,2024-12-13T10:13:00+00:00,2024,12,13,10,13,Etc/UTC,seoul_man
