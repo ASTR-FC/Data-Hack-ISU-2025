@@ -136,87 +136,8 @@ class Dashboard:
             else:
                 st.info("Missing laps.csv or competitors.csv.")
 
-        # # ---------------- AI EXPLAINER ----------------
-        # with st.expander("🤖 Ask Qwen to Explain or Summarize"):
-        #     from app.ai_explainer import ask_qwen
-
-        #     st.caption("💡 Tip: You can guide Qwen by adding these phrases to your prompt:")
-        #     st.code("summarize match stats → structured summary\nuse match stats → data-aware storytelling", language="text")
-
-        #     user_query = st.text_area("Ask about the event, heats, or athletes:")
-
-        #     if st.button("Ask Qwen"):
-        #         heat_df = self.datasets.get("heat_competitors")
-        #         competitors_df = self.datasets.get("competitors")
-
-        #         # Defensive check
-        #         if heat_df is None or competitors_df is None:
-        #             st.warning("Event data not available for this view.")
-        #             st.stop()
-
-        #         # Merge minimal data context
-        #         combined_df = heat_df.merge(
-        #             competitors_df,
-        #             how="left",
-        #             left_on="competition_competitor_id",
-        #             right_on="competition_competitor_id"
-        #         )
-
-        #         # Limit rows for safety
-        #         combined_df = combined_df.head(10)
-
-        #         # Convert into readable natural language summary
-        #         summary_lines = []
-        #         for _, row in combined_df.iterrows():
-        #             summary_lines.append(
-        #                 f"{row.get('first_name', '')} {row.get('last_name', '')} from {row.get('started_for_nf_country_name', 'N/A')} "
-        #                 f"finished rank {row.get('final_rank', '?')} with a time of {row.get('final_result', '—')} s "
-        #                 f"in {row.get('round_name', '—')} ({row.get('heat_name', '—')})."
-        #             )
-        #         text_data = "\n".join(summary_lines)
-
-        #         query_lower = user_query.lower()
-
-        #     # ==============================
-        #     # Case A — summarize match stats
-        #     # ==============================
-        #         if "summarize match stats" in query_lower:
-        #             prompt = f"""
-        # You are a precise sports analytics assistant. Use the data below to produce a structured match summary (like a table or bullet points).
-        # Keep it analytical — include key rankings, top performers, and interesting stats.
-
-        # USER PROMPT:
-        # {user_query}
-
-        # EVENT DATA:
-        # {text_data}
-        # """
-        #             st.write(ask_qwen(prompt))
-
-        #         # ==============================
-        #         # Case B — use match stats
-        #         # ==============================
-        #         elif "use match stats" in query_lower:
-        #             prompt = f"""
-        # You are a creative sports storyteller. The following race data is from a real short-track event.
-        # Use it naturally to write a short, engaging paragraph or story.
-        # Do NOT output a table — integrate the data organically into narrative form.
-
-        # USER PROMPT:
-        # {user_query}
-
-        # EVENT DATA:
-        # {text_data}
-        # """
-        #             st.write(ask_qwen(prompt))
-
-        #         # ==============================
-        #         # 3️⃣  Case C — default (no data)
-        #         # ==============================
-        #         else:
-        #             st.write(ask_qwen(user_query))
-
-            # ---------------- AI EXPLAINER ----------------
+       
+        # ---------------- AI EXPLAINER ----------------
         with st.expander("🤖 Ask Qwen to Explain or Summarize"):
             from app.ai_explainer import ask_qwen
 
