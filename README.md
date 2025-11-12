@@ -24,6 +24,8 @@ ice_challenge/
 │   ├── dashboard.py         # Main dashboard logic
 │   ├── data_loader.py       # CSV cleaning and preprocessing
 │   └── ai_explainer.py      # Qwen AI integration
+│   └── dataset_manager.py   # Responsible for discovering and loading all dataset folders
+
 │
 ├── processed_datasets/
 │   ├── seoul_man/           # Clean event data (Men's competition)
