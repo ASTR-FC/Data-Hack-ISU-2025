@@ -1,0 +1,8 @@
+round_name,display_order,state,start_date,start_year,start_month,start_day,start_hour,start_minute,time_zone,num_heats,json_source
+Preliminaries,1,,2024-12-13T09:55:00+00:00,2024,12,13,9,55,Etc/UTC,6,seoul_woman
+Heats,2,,2024-12-13T14:34:00+00:00,2024,12,13,14,34,Etc/UTC,8,seoul_woman
+Rep. Quarterfinals,3,,2024-12-15T12:06:00+00:00,2024,12,15,12,6,Etc/UTC,6,seoul_woman
+Rep. Semifinals,4,,2024-12-15T12:39:00+00:00,2024,12,15,12,39,Etc/UTC,2,seoul_woman
+Quarterfinals,5,,2024-12-15T15:56:00+00:00,2024,12,15,15,56,Etc/UTC,4,seoul_woman
+Semifinals,6,,2024-12-15T16:27:00+00:00,2024,12,15,16,27,Etc/UTC,2,seoul_woman
+Finals,7,,2024-12-15T16:49:00+00:00,2024,12,15,16,49,Etc/UTC,2,seoul_woman

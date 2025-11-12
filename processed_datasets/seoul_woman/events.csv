@@ -1,0 +1,2 @@
+event_id,event_name,discipline_name,discipline_distance,sport_code,gender,display_order,status,start_date,start_year,start_month,start_day,start_hour,start_minute,time_zone,json_source
+a09f29d9-4361-460d-aa68-2b3b3a7cce0f,ISU Short Track World Tour,Women 500 m,500,ST,Women,1,,2024-12-13T09:55:00+00:00,2024,12,13,9,55,Etc/UTC,seoul_woman

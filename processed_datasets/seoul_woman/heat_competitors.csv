@@ -1,0 +1,144 @@
+round_name,heat_id,heat_name,competition_competitor_id,bib_number,starting_position,final_rank,final_result,final_points,result_status,qualification_code,record_flag,num_laps,json_source
+Preliminaries,b8af30a1-686a-4ecc-8868-8789412312e6,Heat 1,bc862a99-8b83-474d-a2bb-e51db80b59e1,97,2,1.0,44.696,,,Q,,5,seoul_woman
+Preliminaries,b8af30a1-686a-4ecc-8868-8789412312e6,Heat 1,6df8a73c-8639-4c0d-bd98-ed669b028868,54,1,2.0,44.847,,,Q,,5,seoul_woman
+Preliminaries,b8af30a1-686a-4ecc-8868-8789412312e6,Heat 1,f5194e5e-0e99-4719-9b22-d05eedfdfec8,42,4,3.0,45.469,,,Q,,5,seoul_woman
+Preliminaries,b8af30a1-686a-4ecc-8868-8789412312e6,Heat 1,9ba3441b-d1b3-4f50-9ff6-7acc67325c81,67,3,4.0,45.545,,,q,,5,seoul_woman
+Preliminaries,b8af30a1-686a-4ecc-8868-8789412312e6,Heat 1,f0e78803-4eda-4f29-b7c5-b46339cca8ab,61,5,5.0,46.145,,,,,5,seoul_woman
+Preliminaries,123bcaa4-6031-43b2-95c6-b57250281e6f,Heat 2,a0337d9b-d1ea-42e6-b9b3-ac83e0e11cd8,59,1,1.0,45.319,,,Q,,5,seoul_woman
+Preliminaries,123bcaa4-6031-43b2-95c6-b57250281e6f,Heat 2,216b5d89-848a-4830-9fe3-2fba1e366969,39,2,2.0,45.432,,,Q,,5,seoul_woman
+Preliminaries,123bcaa4-6031-43b2-95c6-b57250281e6f,Heat 2,0ed93a45-a373-484c-a61b-061e55ce2e53,60,3,3.0,45.512,,,Q,,5,seoul_woman
+Preliminaries,123bcaa4-6031-43b2-95c6-b57250281e6f,Heat 2,1a4e97a0-fb9c-4cd5-95e8-69ffcc700069,108,4,4.0,45.570,,,q,,5,seoul_woman
+Preliminaries,123bcaa4-6031-43b2-95c6-b57250281e6f,Heat 2,b73a6ef5-604a-4a64-80d5-f13e2d5d9626,110,5,5.0,46.613,,,,,5,seoul_woman
+Preliminaries,b6d1d4c0-85ca-4b09-800b-28e3dd174685,Heat 3,bce0f8e1-9172-4cd2-9396-25fca65dcff4,18,2,1.0,44.589,,,Q,,5,seoul_woman
+Preliminaries,b6d1d4c0-85ca-4b09-800b-28e3dd174685,Heat 3,c9102b97-afc8-4faf-9150-06b16d73b3a5,25,1,2.0,44.656,,,Q,,5,seoul_woman
+Preliminaries,b6d1d4c0-85ca-4b09-800b-28e3dd174685,Heat 3,9ad68731-3b70-4e4d-958b-a87b096ba0f5,72,3,3.0,44.756,,,Q,,5,seoul_woman
+Preliminaries,b6d1d4c0-85ca-4b09-800b-28e3dd174685,Heat 3,fca96d99-224c-4897-af3e-19dca0041f5d,96,4,4.0,45.941,,,,,5,seoul_woman
+Preliminaries,5fcdc159-ba75-4b8c-83b1-b31395c89c78,Heat 4,e419decc-5bcf-40ac-aa0f-2910567c563e,58,1,1.0,45.404,,,Q,,5,seoul_woman
+Preliminaries,5fcdc159-ba75-4b8c-83b1-b31395c89c78,Heat 4,63eaa77e-e1ab-4d81-b03e-55a196ee247d,89,3,2.0,45.496,,,Q,,5,seoul_woman
+Preliminaries,5fcdc159-ba75-4b8c-83b1-b31395c89c78,Heat 4,68682767-ef3c-4b4d-8031-c4ffa3f26404,80,4,3.0,45.565,,,Q,,5,seoul_woman
+Preliminaries,5fcdc159-ba75-4b8c-83b1-b31395c89c78,Heat 4,7559aa92-cebb-452b-833f-d4b2850033c1,83,2,4.0,45.671,,,,,5,seoul_woman
+Preliminaries,facc70a8-06d9-42b5-aabf-977ea04e54a1,Heat 5,53c63257-c759-4293-8f77-23dcd451234b,50,1,1.0,45.503,,,Q,,5,seoul_woman
+Preliminaries,facc70a8-06d9-42b5-aabf-977ea04e54a1,Heat 5,9a11aa40-3413-4817-a662-2c5c700ff511,68,4,2.0,45.562,,,Q,,5,seoul_woman
+Preliminaries,facc70a8-06d9-42b5-aabf-977ea04e54a1,Heat 5,7cb688bb-5c6c-4a9e-b4a8-880eced53c45,55,2,3.0,45.851,,,Q,,5,seoul_woman
+Preliminaries,facc70a8-06d9-42b5-aabf-977ea04e54a1,Heat 5,499b3fda-e391-479f-a02c-df47ec4040b7,109,3,4.0,47.962,,,,,5,seoul_woman
+Preliminaries,90fda20f-6112-4245-81b2-c7f2bdad9f19,Heat 6,1ecda08f-2010-46d9-bf7a-a4696ab84c31,94,4,1.0,45.425,,,Q,,5,seoul_woman
+Preliminaries,90fda20f-6112-4245-81b2-c7f2bdad9f19,Heat 6,70bef581-29d2-476b-9d05-856b8b2b1016,78,1,2.0,45.719,,,Q,,5,seoul_woman
+Preliminaries,90fda20f-6112-4245-81b2-c7f2bdad9f19,Heat 6,9a80c6d5-649b-44fe-86d4-fb90b2c8c654,69,2,3.0,46.423,,,Q,,5,seoul_woman
+Preliminaries,90fda20f-6112-4245-81b2-c7f2bdad9f19,Heat 6,e6743169-d987-4228-ba95-6ad0cb5b7ae5,103,3,4.0,no time,,,,,4,seoul_woman
+Heats,8d6ce0ee-9cef-4419-848c-536ff33e6718,Heat 1,e59a1327-d3f9-484f-a685-4d44a869bfbf,3,1,1.0,43.324,,,Q,,5,seoul_woman
+Heats,8d6ce0ee-9cef-4419-848c-536ff33e6718,Heat 1,f0868a34-8fcf-4ba3-b9f8-893125d80fe3,105,2,2.0,43.369,,,Q,,5,seoul_woman
+Heats,8d6ce0ee-9cef-4419-848c-536ff33e6718,Heat 1,3b92e263-959d-4148-bc28-6b249321e65a,86,3,3.0,43.415,,,q,,5,seoul_woman
+Heats,8d6ce0ee-9cef-4419-848c-536ff33e6718,Heat 1,70bef581-29d2-476b-9d05-856b8b2b1016,78,4,4.0,44.977,,,,,5,seoul_woman
+Heats,8d6ce0ee-9cef-4419-848c-536ff33e6718,Heat 1,9ad68731-3b70-4e4d-958b-a87b096ba0f5,72,5,5.0,45.669,,,,,5,seoul_woman
+Heats,012cf3bf-9a21-46b9-9b1f-b3a2863e8f42,Heat 2,7f93311a-945e-438a-a403-9a4a0fe55a3b,32,1,1.0,43.378,,,Q,,5,seoul_woman
+Heats,012cf3bf-9a21-46b9-9b1f-b3a2863e8f42,Heat 2,50cb4da6-cb12-4c2c-a4e8-af0321e5425c,45,3,2.0,43.590,,,Q,,5,seoul_woman
+Heats,012cf3bf-9a21-46b9-9b1f-b3a2863e8f42,Heat 2,165b73ae-ea23-4503-8477-9b35f736bf84,40,2,3.0,43.984,,,,,5,seoul_woman
+Heats,012cf3bf-9a21-46b9-9b1f-b3a2863e8f42,Heat 2,9a11aa40-3413-4817-a662-2c5c700ff511,68,4,4.0,45.133,,,,,5,seoul_woman
+Heats,012cf3bf-9a21-46b9-9b1f-b3a2863e8f42,Heat 2,f5194e5e-0e99-4719-9b22-d05eedfdfec8,42,5,5.0,45.368,,,,,5,seoul_woman
+Heats,65c1891d-fce4-4bc5-9516-69a6deeee6fe,Heat 3,5f41d2e8-95ba-4d77-a0e0-2849b475b983,4,1,1.0,43.941,,,Q,,5,seoul_woman
+Heats,65c1891d-fce4-4bc5-9516-69a6deeee6fe,Heat 3,e75e89fe-2989-441b-b579-cdbe5deb05dc,5,2,2.0,44.024,,,Q,,5,seoul_woman
+Heats,65c1891d-fce4-4bc5-9516-69a6deeee6fe,Heat 3,8df9fd76-b493-434e-9a57-e850fc7893a8,82,3,3.0,44.088,,,,,5,seoul_woman
+Heats,65c1891d-fce4-4bc5-9516-69a6deeee6fe,Heat 3,63eaa77e-e1ab-4d81-b03e-55a196ee247d,89,4,4.0,44.290,,,,,5,seoul_woman
+Heats,65c1891d-fce4-4bc5-9516-69a6deeee6fe,Heat 3,68682767-ef3c-4b4d-8031-c4ffa3f26404,80,5,5.0,46.348,,,,,5,seoul_woman
+Heats,b069f944-cad0-46e0-81f7-be47ab2ba7bd,Heat 4,aafbbe68-5977-440f-833c-efc955a05625,2,1,1.0,43.061,,,Q,,5,seoul_woman
+Heats,b069f944-cad0-46e0-81f7-be47ab2ba7bd,Heat 4,696ce39e-3a18-4c72-a1a8-b13d5475ef96,36,2,2.0,44.617,,,Q,,5,seoul_woman
+Heats,b069f944-cad0-46e0-81f7-be47ab2ba7bd,Heat 4,216b5d89-848a-4830-9fe3-2fba1e366969,39,4,3.0,45.124,,,,,5,seoul_woman
+Heats,b069f944-cad0-46e0-81f7-be47ab2ba7bd,Heat 4,0ed93a45-a373-484c-a61b-061e55ce2e53,60,5,4.0,45.427,,,,,5,seoul_woman
+Heats,b069f944-cad0-46e0-81f7-be47ab2ba7bd,Heat 4,20f79d1e-6b2a-4804-b1a6-36908b04bc78,28,3,5.0,48.990,,,,,5,seoul_woman
+Heats,adc72c8c-5d75-40c0-8719-6171b3241141,Heat 5,5f08259b-c0c0-4bd3-9ea5-eb2401fed5fb,12,1,1.0,43.696,,,Q,,5,seoul_woman
+Heats,adc72c8c-5d75-40c0-8719-6171b3241141,Heat 5,bce0f8e1-9172-4cd2-9396-25fca65dcff4,18,3,2.0,43.757,,,Q,,5,seoul_woman
+Heats,adc72c8c-5d75-40c0-8719-6171b3241141,Heat 5,d2c5f17b-aae0-4f38-a663-5ae155346501,7,2,3.0,43.840,,,q,,5,seoul_woman
+Heats,adc72c8c-5d75-40c0-8719-6171b3241141,Heat 5,c9102b97-afc8-4faf-9150-06b16d73b3a5,25,4,4.0,43.995,,,,,5,seoul_woman
+Heats,adc72c8c-5d75-40c0-8719-6171b3241141,Heat 5,7cb688bb-5c6c-4a9e-b4a8-880eced53c45,55,5,5.0,44.479,,,,,5,seoul_woman
+Heats,c463a984-8419-4c84-b1e7-b09422c2f8c4,Heat 6,92c49e26-634d-43d6-9872-b7d5f1c4ba87,13,1,1.0,44.763,,,Q,,5,seoul_woman
+Heats,c463a984-8419-4c84-b1e7-b09422c2f8c4,Heat 6,a0337d9b-d1ea-42e6-b9b3-ac83e0e11cd8,59,3,2.0,44.884,,,Q,,5,seoul_woman
+Heats,c463a984-8419-4c84-b1e7-b09422c2f8c4,Heat 6,6df8a73c-8639-4c0d-bd98-ed669b028868,54,4,3.0,44.904,,,,,5,seoul_woman
+Heats,c463a984-8419-4c84-b1e7-b09422c2f8c4,Heat 6,9a80c6d5-649b-44fe-86d4-fb90b2c8c654,69,5,4.0,45.018,,,,,5,seoul_woman
+Heats,c463a984-8419-4c84-b1e7-b09422c2f8c4,Heat 6,d2927e4c-0031-433f-beae-ff993a972c19,23,2,5.0,47.013,,,,,5,seoul_woman
+Heats,83b335b2-ade7-4ad2-b36f-d0c59f637f09,Heat 7,e013b51e-a231-480c-af82-9c4375efe88f,90,1,1.0,43.766,,,Q,,5,seoul_woman
+Heats,83b335b2-ade7-4ad2-b36f-d0c59f637f09,Heat 7,bd14513f-84ae-4214-82ae-f2b2aca8d112,21,2,2.0,43.822,,,Q,,5,seoul_woman
+Heats,83b335b2-ade7-4ad2-b36f-d0c59f637f09,Heat 7,53c63257-c759-4293-8f77-23dcd451234b,50,4,3.0,44.822,,,,,5,seoul_woman
+Heats,83b335b2-ade7-4ad2-b36f-d0c59f637f09,Heat 7,9ba3441b-d1b3-4f50-9ff6-7acc67325c81,67,5,4.0,44.895,,,,,5,seoul_woman
+Heats,83b335b2-ade7-4ad2-b36f-d0c59f637f09,Heat 7,bc862a99-8b83-474d-a2bb-e51db80b59e1,97,3,5.0,no time,,,,,3,seoul_woman
+Heats,9a159fbd-98d1-4a9c-8fed-dc9bbe3512f8,Heat 8,028a9faf-bb78-4a91-9a71-9f61589d80fd,1,2,1.0,43.578,,,Q,,5,seoul_woman
+Heats,9a159fbd-98d1-4a9c-8fed-dc9bbe3512f8,Heat 8,5c1eed82-2fb1-4cfc-9af6-46bd36a1b3a7,27,1,2.0,43.663,,,Q,,5,seoul_woman
+Heats,9a159fbd-98d1-4a9c-8fed-dc9bbe3512f8,Heat 8,e419decc-5bcf-40ac-aa0f-2910567c563e,58,3,3.0,44.454,,,,,5,seoul_woman
+Heats,9a159fbd-98d1-4a9c-8fed-dc9bbe3512f8,Heat 8,1a4e97a0-fb9c-4cd5-95e8-69ffcc700069,108,5,4.0,45.900,,,,,5,seoul_woman
+Heats,9a159fbd-98d1-4a9c-8fed-dc9bbe3512f8,Heat 8,1ecda08f-2010-46d9-bf7a-a4696ab84c31,94,4,5.0,no time,,,,,5,seoul_woman
+Rep. Quarterfinals,4eff6767-5a7b-4824-92b0-fbb1a15e6e3b,Heat 1,165b73ae-ea23-4503-8477-9b35f736bf84,40,1,1.0,45.565,,,Q,,5,seoul_woman
+Rep. Quarterfinals,4eff6767-5a7b-4824-92b0-fbb1a15e6e3b,Heat 1,9ba3441b-d1b3-4f50-9ff6-7acc67325c81,67,2,2.0,45.671,,,,,5,seoul_woman
+Rep. Quarterfinals,4eff6767-5a7b-4824-92b0-fbb1a15e6e3b,Heat 1,0ed93a45-a373-484c-a61b-061e55ce2e53,60,3,3.0,45.745,,,,,5,seoul_woman
+Rep. Quarterfinals,4eff6767-5a7b-4824-92b0-fbb1a15e6e3b,Heat 1,499b3fda-e391-479f-a02c-df47ec4040b7,109,5,4.0,48.214,,,,,5,seoul_woman
+Rep. Quarterfinals,4eff6767-5a7b-4824-92b0-fbb1a15e6e3b,Heat 1,fca96d99-224c-4897-af3e-19dca0041f5d,96,4,5.0,no time,,,,,3,seoul_woman
+Rep. Quarterfinals,b5937355-75b2-4a61-a8e6-4dfd954de181,Heat 2,8df9fd76-b493-434e-9a57-e850fc7893a8,82,1,1.0,44.362,,,Q,,5,seoul_woman
+Rep. Quarterfinals,b5937355-75b2-4a61-a8e6-4dfd954de181,Heat 2,9a80c6d5-649b-44fe-86d4-fb90b2c8c654,69,2,2.0,44.979,,,q,,5,seoul_woman
+Rep. Quarterfinals,b5937355-75b2-4a61-a8e6-4dfd954de181,Heat 2,e6743169-d987-4228-ba95-6ad0cb5b7ae5,103,5,3.0,45.946,,,,,5,seoul_woman
+Rep. Quarterfinals,b5937355-75b2-4a61-a8e6-4dfd954de181,Heat 2,1a4e97a0-fb9c-4cd5-95e8-69ffcc700069,108,4,4.0,46.139,,,,,5,seoul_woman
+Rep. Quarterfinals,b5937355-75b2-4a61-a8e6-4dfd954de181,Heat 2,7559aa92-cebb-452b-833f-d4b2850033c1,83,3,5.0,46.175,,,,,5,seoul_woman
+Rep. Quarterfinals,cc28b764-9e7f-4a26-907c-598dda3bc56d,Heat 3,d2927e4c-0031-433f-beae-ff993a972c19,23,5,1.0,44.720,,,Q,,5,seoul_woman
+Rep. Quarterfinals,cc28b764-9e7f-4a26-907c-598dda3bc56d,Heat 3,e419decc-5bcf-40ac-aa0f-2910567c563e,58,1,2.0,44.791,,,q,,5,seoul_woman
+Rep. Quarterfinals,cc28b764-9e7f-4a26-907c-598dda3bc56d,Heat 3,9a11aa40-3413-4817-a662-2c5c700ff511,68,2,3.0,45.042,,,,,5,seoul_woman
+Rep. Quarterfinals,cc28b764-9e7f-4a26-907c-598dda3bc56d,Heat 3,f0e78803-4eda-4f29-b7c5-b46339cca8ab,61,3,4.0,45.161,,,,,5,seoul_woman
+Rep. Quarterfinals,cc28b764-9e7f-4a26-907c-598dda3bc56d,Heat 3,68682767-ef3c-4b4d-8031-c4ffa3f26404,80,4,,DNS,,Did Not Start,,,0,seoul_woman
+Rep. Quarterfinals,6a484bd3-14ab-4a64-9ff9-d6b10dce6c04,Heat 4,70bef581-29d2-476b-9d05-856b8b2b1016,78,2,1.0,45.500,,,Q,,5,seoul_woman
+Rep. Quarterfinals,6a484bd3-14ab-4a64-9ff9-d6b10dce6c04,Heat 4,20f79d1e-6b2a-4804-b1a6-36908b04bc78,28,5,2.0,45.594,,,,,5,seoul_woman
+Rep. Quarterfinals,6a484bd3-14ab-4a64-9ff9-d6b10dce6c04,Heat 4,53c63257-c759-4293-8f77-23dcd451234b,50,1,3.0,45.767,,,,,5,seoul_woman
+Rep. Quarterfinals,6a484bd3-14ab-4a64-9ff9-d6b10dce6c04,Heat 4,f5194e5e-0e99-4719-9b22-d05eedfdfec8,42,3,4.0,45.769,,,,,5,seoul_woman
+Rep. Quarterfinals,6a484bd3-14ab-4a64-9ff9-d6b10dce6c04,Heat 4,b73a6ef5-604a-4a64-80d5-f13e2d5d9626,110,4,5.0,46.552,,,,,5,seoul_woman
+Rep. Quarterfinals,7259ead7-6ba6-4804-8d31-7ea5600ae4e5,Heat 5,6df8a73c-8639-4c0d-bd98-ed669b028868,54,2,1.0,44.904,,,Q,,5,seoul_woman
+Rep. Quarterfinals,7259ead7-6ba6-4804-8d31-7ea5600ae4e5,Heat 5,bc862a99-8b83-474d-a2bb-e51db80b59e1,97,4,2.0,45.068,,,q,,5,seoul_woman
+Rep. Quarterfinals,7259ead7-6ba6-4804-8d31-7ea5600ae4e5,Heat 5,9ad68731-3b70-4e4d-958b-a87b096ba0f5,72,3,3.0,45.240,,,,,5,seoul_woman
+Rep. Quarterfinals,7259ead7-6ba6-4804-8d31-7ea5600ae4e5,Heat 5,63eaa77e-e1ab-4d81-b03e-55a196ee247d,89,1,4.0,45.807,,,,,5,seoul_woman
+Rep. Quarterfinals,ca5062bc-ae3a-4222-bdc2-2a62c77df011,Heat 6,c9102b97-afc8-4faf-9150-06b16d73b3a5,25,1,1.0,44.779,,,Q,,5,seoul_woman
+Rep. Quarterfinals,ca5062bc-ae3a-4222-bdc2-2a62c77df011,Heat 6,1ecda08f-2010-46d9-bf7a-a4696ab84c31,94,4,2.0,45.037,,,q,,5,seoul_woman
+Rep. Quarterfinals,ca5062bc-ae3a-4222-bdc2-2a62c77df011,Heat 6,216b5d89-848a-4830-9fe3-2fba1e366969,39,3,3.0,45.055,,,,,5,seoul_woman
+Rep. Quarterfinals,ca5062bc-ae3a-4222-bdc2-2a62c77df011,Heat 6,7cb688bb-5c6c-4a9e-b4a8-880eced53c45,55,2,4.0,45.286,,,,,5,seoul_woman
+Rep. Semifinals,0c436b92-a6e6-48a2-9b8b-db968981f631,Heat 1,c9102b97-afc8-4faf-9150-06b16d73b3a5,25,1,1.0,45.121,,,Q,,5,seoul_woman
+Rep. Semifinals,0c436b92-a6e6-48a2-9b8b-db968981f631,Heat 1,bc862a99-8b83-474d-a2bb-e51db80b59e1,97,3,2.0,45.132,,,,,5,seoul_woman
+Rep. Semifinals,0c436b92-a6e6-48a2-9b8b-db968981f631,Heat 1,165b73ae-ea23-4503-8477-9b35f736bf84,40,5,3.0,45.382,,,,,5,seoul_woman
+Rep. Semifinals,0c436b92-a6e6-48a2-9b8b-db968981f631,Heat 1,9a80c6d5-649b-44fe-86d4-fb90b2c8c654,69,2,4.0,45.458,,,,,5,seoul_woman
+Rep. Semifinals,0c436b92-a6e6-48a2-9b8b-db968981f631,Heat 1,70bef581-29d2-476b-9d05-856b8b2b1016,78,4,5.0,45.644,,,,,5,seoul_woman
+Rep. Semifinals,a7b33464-1745-42ca-b56f-c3e4061d0264,Heat 2,d2927e4c-0031-433f-beae-ff993a972c19,23,2,1.0,44.155,,,Q,,5,seoul_woman
+Rep. Semifinals,a7b33464-1745-42ca-b56f-c3e4061d0264,Heat 2,8df9fd76-b493-434e-9a57-e850fc7893a8,82,1,2.0,44.242,,,,,5,seoul_woman
+Rep. Semifinals,a7b33464-1745-42ca-b56f-c3e4061d0264,Heat 2,1ecda08f-2010-46d9-bf7a-a4696ab84c31,94,5,3.0,44.290,,,,,5,seoul_woman
+Rep. Semifinals,a7b33464-1745-42ca-b56f-c3e4061d0264,Heat 2,e419decc-5bcf-40ac-aa0f-2910567c563e,58,3,4.0,44.754,,,,,5,seoul_woman
+Rep. Semifinals,a7b33464-1745-42ca-b56f-c3e4061d0264,Heat 2,6df8a73c-8639-4c0d-bd98-ed669b028868,54,4,5.0,45.205,,,,,5,seoul_woman
+Quarterfinals,7d09504b-6fea-4136-b9d3-5cb3e86c00ae,Heat 1,aafbbe68-5977-440f-833c-efc955a05625,2,1,1.0,42.987,,,Q,,5,seoul_woman
+Quarterfinals,7d09504b-6fea-4136-b9d3-5cb3e86c00ae,Heat 1,f0868a34-8fcf-4ba3-b9f8-893125d80fe3,105,2,2.0,43.748,,,Q,,5,seoul_woman
+Quarterfinals,7d09504b-6fea-4136-b9d3-5cb3e86c00ae,Heat 1,3b92e263-959d-4148-bc28-6b249321e65a,86,3,3.0,43.803,,,q,,5,seoul_woman
+Quarterfinals,7d09504b-6fea-4136-b9d3-5cb3e86c00ae,Heat 1,92c49e26-634d-43d6-9872-b7d5f1c4ba87,13,4,4.0,44.020,,,,,5,seoul_woman
+Quarterfinals,7d09504b-6fea-4136-b9d3-5cb3e86c00ae,Heat 1,a0337d9b-d1ea-42e6-b9b3-ac83e0e11cd8,59,5,5.0,44.182,,,,,5,seoul_woman
+Quarterfinals,09fc2212-6d7a-4c65-b0bf-93e0d9bf2530,Heat 2,e59a1327-d3f9-484f-a685-4d44a869bfbf,3,1,1.0,43.101,,,Q,,5,seoul_woman
+Quarterfinals,09fc2212-6d7a-4c65-b0bf-93e0d9bf2530,Heat 2,5f41d2e8-95ba-4d77-a0e0-2849b475b983,4,5,2.0,44.069,,,Q,,5,seoul_woman
+Quarterfinals,09fc2212-6d7a-4c65-b0bf-93e0d9bf2530,Heat 2,50cb4da6-cb12-4c2c-a4e8-af0321e5425c,45,2,3.0,44.094,,,,,5,seoul_woman
+Quarterfinals,09fc2212-6d7a-4c65-b0bf-93e0d9bf2530,Heat 2,d2c5f17b-aae0-4f38-a663-5ae155346501,7,4,4.0,44.282,,,,,5,seoul_woman
+Quarterfinals,09fc2212-6d7a-4c65-b0bf-93e0d9bf2530,Heat 2,bce0f8e1-9172-4cd2-9396-25fca65dcff4,18,3,5.0,no time,,,,,3,seoul_woman
+Quarterfinals,6e24347c-e353-477b-b0c0-5a05afc02601,Heat 3,7f93311a-945e-438a-a403-9a4a0fe55a3b,32,1,1.0,43.092,,,Q,,5,seoul_woman
+Quarterfinals,6e24347c-e353-477b-b0c0-5a05afc02601,Heat 3,5c1eed82-2fb1-4cfc-9af6-46bd36a1b3a7,27,2,2.0,43.165,,,Q,,5,seoul_woman
+Quarterfinals,6e24347c-e353-477b-b0c0-5a05afc02601,Heat 3,e013b51e-a231-480c-af82-9c4375efe88f,90,3,3.0,43.186,,,q,,5,seoul_woman
+Quarterfinals,6e24347c-e353-477b-b0c0-5a05afc02601,Heat 3,696ce39e-3a18-4c72-a1a8-b13d5475ef96,36,4,4.0,43.694,,,,,5,seoul_woman
+Quarterfinals,6e24347c-e353-477b-b0c0-5a05afc02601,Heat 3,c9102b97-afc8-4faf-9150-06b16d73b3a5,25,5,5.0,44.367,,,,,5,seoul_woman
+Quarterfinals,bc7b8087-0058-49dd-bfd8-408290e0793a,Heat 4,028a9faf-bb78-4a91-9a71-9f61589d80fd,1,1,1.0,43.717,,,Q,,5,seoul_woman
+Quarterfinals,bc7b8087-0058-49dd-bfd8-408290e0793a,Heat 4,d2927e4c-0031-433f-beae-ff993a972c19,23,5,2.0,43.949,,,Q,,5,seoul_woman
+Quarterfinals,bc7b8087-0058-49dd-bfd8-408290e0793a,Heat 4,e75e89fe-2989-441b-b579-cdbe5deb05dc,5,4,3.0,44.063,,,,,5,seoul_woman
+Quarterfinals,bc7b8087-0058-49dd-bfd8-408290e0793a,Heat 4,5f08259b-c0c0-4bd3-9ea5-eb2401fed5fb,12,2,4.0,44.180,,,,,5,seoul_woman
+Quarterfinals,bc7b8087-0058-49dd-bfd8-408290e0793a,Heat 4,bd14513f-84ae-4214-82ae-f2b2aca8d112,21,3,5.0,1:03.155,,,,,5,seoul_woman
+Semifinals,71610cd4-9f07-4437-a3cd-17a4f63ab1d4,Heat 1,aafbbe68-5977-440f-833c-efc955a05625,2,1,1.0,43.368,,,QA,,5,seoul_woman
+Semifinals,71610cd4-9f07-4437-a3cd-17a4f63ab1d4,Heat 1,028a9faf-bb78-4a91-9a71-9f61589d80fd,1,3,2.0,43.634,,,QA,,5,seoul_woman
+Semifinals,71610cd4-9f07-4437-a3cd-17a4f63ab1d4,Heat 1,5f41d2e8-95ba-4d77-a0e0-2849b475b983,4,5,3.0,43.667,,,qA,,5,seoul_woman
+Semifinals,71610cd4-9f07-4437-a3cd-17a4f63ab1d4,Heat 1,d2927e4c-0031-433f-beae-ff993a972c19,23,4,4.0,44.682,,,QB,,5,seoul_woman
+Semifinals,71610cd4-9f07-4437-a3cd-17a4f63ab1d4,Heat 1,e013b51e-a231-480c-af82-9c4375efe88f,90,2,5.0,no time,,,QB,,4,seoul_woman
+Semifinals,7646909d-6b35-4a3d-9d3e-2d0683dd8c33,Heat 2,5c1eed82-2fb1-4cfc-9af6-46bd36a1b3a7,27,3,1.0,43.522,,,QA,,5,seoul_woman
+Semifinals,7646909d-6b35-4a3d-9d3e-2d0683dd8c33,Heat 2,7f93311a-945e-438a-a403-9a4a0fe55a3b,32,1,2.0,43.728,,,QA,,5,seoul_woman
+Semifinals,7646909d-6b35-4a3d-9d3e-2d0683dd8c33,Heat 2,3b92e263-959d-4148-bc28-6b249321e65a,86,5,3.0,43.881,,,QB,,5,seoul_woman
+Semifinals,7646909d-6b35-4a3d-9d3e-2d0683dd8c33,Heat 2,f0868a34-8fcf-4ba3-b9f8-893125d80fe3,105,4,4.0,no time,,,QB,,2,seoul_woman
+Semifinals,7646909d-6b35-4a3d-9d3e-2d0683dd8c33,Heat 2,e59a1327-d3f9-484f-a685-4d44a869bfbf,3,2,,PEN,,Penalty,,,0,seoul_woman
+Finals,c0cf3cf8-d784-4c86-ad34-d7695403f27c,Final A,aafbbe68-5977-440f-833c-efc955a05625,2,1,1.0,43.362,,,,,5,seoul_woman
+Finals,c0cf3cf8-d784-4c86-ad34-d7695403f27c,Final A,5c1eed82-2fb1-4cfc-9af6-46bd36a1b3a7,27,2,2.0,43.511,,,,,5,seoul_woman
+Finals,c0cf3cf8-d784-4c86-ad34-d7695403f27c,Final A,5f41d2e8-95ba-4d77-a0e0-2849b475b983,4,4,3.0,43.591,,,,,5,seoul_woman
+Finals,c0cf3cf8-d784-4c86-ad34-d7695403f27c,Final A,028a9faf-bb78-4a91-9a71-9f61589d80fd,1,3,4.0,43.771,,,,,5,seoul_woman
+Finals,c0cf3cf8-d784-4c86-ad34-d7695403f27c,Final A,7f93311a-945e-438a-a403-9a4a0fe55a3b,32,5,5.0,44.219,,,,,5,seoul_woman
+Finals,a592104f-6ca3-41f7-9f3b-8e338e202944,Final B,3b92e263-959d-4148-bc28-6b249321e65a,86,1,1.0,43.671,,,,,5,seoul_woman
+Finals,a592104f-6ca3-41f7-9f3b-8e338e202944,Final B,f0868a34-8fcf-4ba3-b9f8-893125d80fe3,105,3,2.0,43.825,,,,,5,seoul_woman
+Finals,a592104f-6ca3-41f7-9f3b-8e338e202944,Final B,e013b51e-a231-480c-af82-9c4375efe88f,90,4,3.0,43.914,,,,,5,seoul_woman
+Finals,a592104f-6ca3-41f7-9f3b-8e338e202944,Final B,d2927e4c-0031-433f-beae-ff993a972c19,23,2,4.0,44.389,,,,,5,seoul_woman

@@ -2,10 +2,14 @@ import streamlit as st
 from pathlib import Path
 from dashboard import Dashboard
 
-st.set_page_config(page_title="ISU Short Track Analytics", layout="wide")
-
 def main():
-    data_folder = Path(__file__).resolve().parent.parent / "processed_datasets" / "seoul_man"
+    # Set up Streamlit page configuration
+    st.set_page_config(page_title="ISU Short Track Analytics", layout="wide")
+
+    # Define the base folder where all datasets are stored
+    data_folder = Path("processed_datasets")
+
+    # Initialize and run the dashboard
     dashboard = Dashboard(data_folder)
     dashboard.run()
 
