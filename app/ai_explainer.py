@@ -1,21 +1,26 @@
+import requests
+
 import os
-from openai import OpenAI
 
-client = OpenAI(
-    api_key=os.getenv("DASHSCOPE_API_KEY"),
-    base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
-)
+# Disable proxies completely
+os.environ["HTTP_PROXY"] = ""
+os.environ["HTTPS_PROXY"] = ""
+os.environ["http_proxy"] = ""
+os.environ["https_proxy"] = ""
 
-def ask_qwen(prompt: str, model="qwen-plus"):
-    """Send a message to Qwen and return its text response."""
-    try:
-        completion = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": "You are a helpful sports analytics assistant who explains speed skating results clearly and engagingly."},
+
+BACKEND_URL = "http://8.211.16.127/ask"
+
+
+def ask_qwen(prompt: str):
+    response = requests.post(
+        BACKEND_URL,
+        json={
+            "model": "qwen-plus",
+            "messages": [
                 {"role": "user", "content": prompt}
             ]
-        )
-        return completion.choices[0].message.content.strip()
-    except Exception as e:
-        return f" Error: {e}"
+        }
+    )
+    data = response.json()
+    return data.get("response", "Error: no response")

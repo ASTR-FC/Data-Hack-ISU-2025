@@ -1,8 +1,10 @@
+
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
 import altair as alt
-from app.ai_explainer import ask_qwen
+from ai_explainer import ask_qwen
 
 
 from dataset_manager import DatasetManager
@@ -139,17 +141,15 @@ class Dashboard:
        
         # ---------------- AI EXPLAINER ----------------
         with st.expander("🤖 Ask Qwen to Explain or Summarize"):
-            from app.ai_explainer import ask_qwen
+            st.caption("💡 Tip: To let Qwen use real event data, include this phrase in your message:")
 
-        st.caption("💡 Tip: To let Qwen use real event data, include this phrase in your message:")
+            st.caption("💡 use match stats - allows the bot to access the match stats, and you can do miracles later!")
+            st.code("use match stats", language="text")
 
-        st.caption("💡 use match stats - allows the bot to access the match stats, and you can do miracles later!")
-        st.code("use match stats", language="text")
+            st.caption("💡 summarize match stats   → gives you structured summar of the match")
+            st.code("summarize match stats", language="text")
 
-        st.caption("💡 summarize match stats   → gives you structured summar of the match")
-        st.code("summarize match stats", language="text")
-
-        user_query = st.text_area("Ask about the event, heats, or athletes, or whatever else you want!:")
+            user_query = st.text_area("Ask about the event, heats, or athletes, or whatever else you want!:")
 
         if st.button("Ask Qwen"):
             query_lower = user_query.lower()
