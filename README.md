@@ -55,8 +55,8 @@ Follow these steps to run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/nmahammad/ice_challange_astra.git
-cd ice_challenge
+git clone https://github.com/ASTR-FC/Data-Hack-ISU-2025.git
+cd Data-Hack-ISU-2025
 ```
 
 ### 2️⃣ Create a Virtual Environment
